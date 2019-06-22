@@ -1,0 +1,75 @@
+TTR trx en-de SIZE=5500
+TTR wmt.ref.en-de.norm.tok	0.271431	0.007550	0.270963	0.271900
+TTR wmt.rbmt1.edit.en-de.norm.tok	0.267595	0.007269	0.267144	0.268047
+TTR wmt.rbmt2.edit.en-de.norm.tok	0.264184	0.007440	0.263722	0.264646
+TTR wmt.smt1.edit.en-de.norm.tok	0.270293	0.007594	0.269821	0.270764
+TTR wmt.smt2.edit.en-de.norm.tok	0.265454	0.007438	0.264992	0.265916
+TTR wmt.rbmt1.hyp.en-de.norm.tok	0.261066	0.007409	0.260606	0.261526
+TTR wmt.rbmt2.hyp.en-de.norm.tok	0.258657	0.007191	0.258211	0.259104
+TTR wmt.smt1.hyp.en-de.norm.tok	0.267924	0.007761	0.267442	0.268406
+TTR wmt.smt2.hyp.en-de.norm.tok	0.262139	0.007376	0.261681	0.262597
+TTR trx de-en SIZE=5000
+TTR wmt.ref.de-en.norm.tok	0.261317	0.007545	0.260849	0.261786
+TTR wmt.rbmt1.edit.de-en.norm.tok	0.254422	0.007406	0.253962	0.254882
+TTR wmt.rbmt2.edit.de-en.norm.tok	0.253624	0.007396	0.253165	0.254083
+TTR wmt.smt1.edit.de-en.norm.tok	0.256816	0.007530	0.256348	0.257283
+TTR wmt.smt2.edit.de-en.norm.tok	0.257524	0.007618	0.257051	0.257997
+TTR wmt.rbmt1.hyp.de-en.norm.tok	0.254619	0.007353	0.254162	0.255075
+TTR wmt.rbmt2.hyp.de-en.norm.tok	0.251894	0.007522	0.251427	0.252361
+TTR wmt.smt1.hyp.de-en.norm.tok	0.257625	0.007726	0.257145	0.258105
+TTR wmt.smt2.hyp.de-en.norm.tok	0.252671	0.007336	0.252216	0.253127
+TTR trx es-de SIZE=2000
+TTR wmt.ref.es-de.norm.tok	0.312843	0.014497	0.311943	0.313743
+TTR wmt.rbmt1.edit.es-de.norm.tok	0.306734	0.014385	0.305841	0.307628
+TTR wmt.rbmt2.edit.es-de.norm.tok	0.299894	0.014188	0.299013	0.300775
+TTR wmt.smt1.edit.es-de.norm.tok	0.308228	0.013878	0.307366	0.309090
+TTR wmt.smt2.edit.es-de.norm.tok	0.311015	0.015441	0.310056	0.311973
+TTR wmt.rbmt1.hyp.es-de.norm.tok	0.295383	0.015085	0.294447	0.296320
+TTR wmt.rbmt2.hyp.es-de.norm.tok	0.281644	0.013766	0.280789	0.282499
+TTR wmt.smt1.hyp.es-de.norm.tok	0.292202	0.013243	0.291380	0.293024
+TTR wmt.smt2.hyp.es-de.norm.tok	0.293336	0.014420	0.292441	0.294232
+TTR trx de-es SIZE=1000
+TTR wmt.ref.de-es.norm.tok	0.329238	0.023958	0.327750	0.330725
+TTR wmt.rbmt1.edit.de-es.norm.tok	0.347106	0.026203	0.345479	0.348733
+TTR wmt.rbmt2.edit.de-es.norm.tok	0.344427	0.025973	0.342814	0.346039
+TTR wmt.smt1.edit.de-es.norm.tok	0.341092	0.025164	0.339530	0.342654
+TTR wmt.smt2.edit.de-es.norm.tok	0.340457	0.024585	0.338931	0.341984
+TTR wmt.rbmt1.hyp.de-es.norm.tok	0.343768	0.024351	0.342256	0.345280
+TTR wmt.rbmt2.hyp.de-es.norm.tok	0.352263	0.026089	0.350644	0.353883
+TTR wmt.smt1.hyp.de-es.norm.tok	0.331816	0.025810	0.330214	0.333419
+TTR wmt.smt2.hyp.de-es.norm.tok	0.321484	0.023369	0.320033	0.322934
+TTR ms zh-en SIZE=29000
+TTR orig.ms.zh-en.a.en.norm.tok	0.143920	0.001684	0.143815	0.144024
+TTR orig.ms.zh-en.c6.en.norm.tok	0.145065	0.001752	0.144956	0.145173
+TTR orig.ms.zh-en.ht.en.norm.tok	0.155915	0.001868	0.155799	0.156031
+TTR orig.ms.zh-en.pe.en.norm.tok	0.148495	0.001788	0.148384	0.148606
+TTR ted en-de SIZE=10000
+TTR ted.en-de.ht.de.norm.tok	0.195762	0.004075	0.195509	0.196015
+TTR ted.en-de.nmt1.de.norm.tok	0.182738	0.003817	0.182501	0.182975
+TTR ted.en-de.nmt2.de.norm.tok	0.174586	0.003667	0.174358	0.174814
+TTR ted.en-de.nmt3.de.norm.tok	0.173544	0.003578	0.173322	0.173766
+TTR ted.en-de.nmt4.de.norm.tok	0.156457	0.003040	0.156269	0.156646
+TTR ted.en-de.penmt1.de.norm.tok	0.189222	0.003960	0.188976	0.189468
+TTR ted.en-de.penmt2.de.norm.tok	0.185802	0.003903	0.185559	0.186044
+TTR ted.en-de.penmt3.de.norm.tok	0.187445	0.003966	0.187199	0.187692
+TTR ted.en-de.penmt4.de.norm.tok	0.187600	0.003816	0.187363	0.187837
+TTR ted.en-de.pesmt1.de.norm.tok	0.187369	0.004075	0.187116	0.187622
+TTR ted.en-de.pesmt2.de.norm.tok	0.188511	0.004033	0.188261	0.188761
+TTR ted.en-de.pesmt3.de.norm.tok	0.188730	0.004063	0.188478	0.188982
+TTR ted.en-de.pesmt4.de.norm.tok	0.191010	0.004073	0.190757	0.191263
+TTR ted.en-de.smt1.de.norm.tok	0.173203	0.003599	0.172979	0.173426
+TTR ted.en-de.smt2.de.norm.tok	0.174183	0.003618	0.173958	0.174407
+TTR ted.en-de.smt3.de.norm.tok	0.175123	0.003742	0.174891	0.175355
+TTR ted.en-de.smt4.de.norm.tok	0.185145	0.003912	0.184902	0.185388
+TTR ted en-fr SIZE=12000
+TTR ted.en-fr.ht.fr.norm.tok	0.161771	0.003252	0.161569	0.161973
+TTR ted.en-fr.nmt1.fr.norm.tok	0.154723	0.003151	0.154528	0.154919
+TTR ted.en-fr.nmt2.fr.norm.tok	0.142353	0.002757	0.142182	0.142524
+TTR ted.en-fr.penmt1.fr.norm.tok	0.160051	0.002979	0.159866	0.160236
+TTR ted.en-fr.penmt2.fr.norm.tok	0.157397	0.003021	0.157209	0.157584
+TTR ted.en-fr.pesmt1.fr.norm.tok	0.161348	0.003164	0.161152	0.161544
+TTR ted.en-fr.pesmt2.fr.norm.tok	0.161353	0.003335	0.161146	0.161560
+TTR ted.en-fr.pesmt3.fr.norm.tok	0.159217	0.003189	0.159019	0.159415
+TTR ted.en-fr.smt1.fr.norm.tok	0.155406	0.003207	0.155207	0.155605
+TTR ted.en-fr.smt2.fr.norm.tok	0.156378	0.003036	0.156189	0.156566
+TTR ted.en-fr.smt3.fr.norm.tok	0.151157	0.003146	0.150961	0.151352

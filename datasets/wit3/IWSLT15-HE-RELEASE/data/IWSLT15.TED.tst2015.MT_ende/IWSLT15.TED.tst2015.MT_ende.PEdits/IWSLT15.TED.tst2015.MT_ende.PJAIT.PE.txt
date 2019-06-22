@@ -1,0 +1,600 @@
+Intelligenz -- was ist das?
+Wenn wir einen Blick zurück auf die Geschichte werfen, wie Intelligenz betrachtet wurde, ist ein grundlegendes Beispiel Edsger W. Dijkstras berühmtes Zitat, dass „die Frage, ob eine Maschine denken kann, etwa so interessant ist wie die Frage, ob ein U-Boot schwimmen könne."
+Nun, als Edsger Dijkstra dies schrieb, war es als Kritik an den frühen Pionieren der Informatik gedacht, wie Alan Turing.
+Allerdings, wenn Sie einen Blick zurückwerfen und darüber nachdenken, was die mächtigsten Innovationen waren, die es uns ermöglichten künstliche Maschinen zu bauen, die schwimmen und künstliche Maschinen, die [fliegen], erkennen Sie, dass es nur durch Verständnis der zugrundeliegenden physikalischen Mechanismen des Schwimmens und Fliegens dazu kam, dass wir in der Lage waren, diese Maschinen zu bauen.
+Und so startete ich vor einigen Jahren ein Programm, um zu versuchen, die grundlegenden physikalischen Mechanismen von Intelligenz zu verstehen.
+Lassen Sie uns einen Schritt zurück gehen.
+Lassen Sie uns zuerst mit einem Gedankenexperiment beginnen.
+Stellen Sie sich vor, Sie sind eine außerirdische Rasse, die nichts über die Biologie oder Neurowissenschaft oder Intelligenz der Erde weiß, aber Sie haben erstaunliche Teleskope und Sie sind in der Lage, die Erde zu beobachten, und Sie haben unglaublich lange Leben, so dass Sie in der Lage sind, die Erde über Millionen, Milliarden von Jahren zu beobachten.
+Und Sie beobachten eine wirklich seltsame Wirkung.
+Sie beobachten, dass im Laufe der Jahrtausende die Erde ständig mit Asteroiden bombardiert wurde, bis zu einem Punkt, und dass irgendwann, etwa in unser Jahr 2000 n. Chr., Asteroiden, die auf Kollisionskurs mit der Erde waren und andernfalls mit ihr kollidiert wären, auf mysteriöse Weise abgelenkt werden oder explodieren, bevor sie die Erde erreichen.
+Nun, wissen wir natürlich als Erdbewohner, dass der Grund wäre, dass wir versuchen, uns selbst zu retten.
+Wir versuchen, einen Einschlag zu verhindern.
+Aber wenn man ein Alien ist, der davon nichts weiß, der keine Vorstellung von Erd-Intelligenz hat, wären Sie gezwungen, eine physikalische Theorie zusammenzustellen, die erklärt, wie bis zu einem bestimmten Zeitpunkt Asteroiden, die die Oberfläche des Planeten zerstören würden, auf mysteriöse Weise aufhören, dies zu tun.
+Und ich behaupte, dass dies die gleiche Frage ist wie das Verständnis der physikalischen Natur der Intelligenz.
+In diesem Programm, das ich vor einigen Jahren unternahm, schaute ich mir eine Vielzahl von verschiedenen Threads über Wissenschaft, über eine Vielzahl von Disziplinen, die meiner Meinung nach auf einen einzigen, zugrunde liegende Mechanismus für Intelligenz hinweist.
+Und so, indem ich all diese verschiedenen Gedankengänge zusammenfügte, fragte ich vor einigen Jahren, gibt es einen zugrunde liegenden Mechanismus für Intelligenz, den wir aus all diesen verschiedenen Gedankengängen ziehen können?
+Gibt es eine einzelne Gleichung für Intelligenz?
+Und die Antwort, glaube ich, ist ja. [„F = T ∇ Sτ"] Was Sie sehen, ist wahrscheinlich das nächste zu einer E = mc ² für Intelligenz, das ich gesehen habe.
+Was Sie hier sehen, ist also eine übereinstimmende Aussage, dass Intelligenz eine Kraft F ist, die die zukünftige Bewegungsfreiheit maximiert.
+Es wirkt, die zukünftige Bewegungsfreiheit zu maximieren, oder Möglichkeiten offen zu halten, mit einiger Kraft T, mit der Vielfalt der möglichen zugänglichen Zukunft, S, bis zu einem zukünftigen Zeithorizont, tau.
+Kurz gesagt, Intelligenz mag sich nicht einfangen lassen.
+Intelligenz versucht, zukünftige Handlungsfreiheit zu maximieren und Möglichkeiten offen zu halten.
+Und so ist es angesichts dieser Gleichung natürlich, zu fragen, was ma damit anfangen kann.
+Wie voraussagend ist sie?
+Sagt es das Niveau menschlicher Intelligenz voraus?
+Sagt dies künstliche Intelligenz vorher?
+Ich zeige Ihnen jetzt ein Video, das, denke ich, einige der erstaunlichen Anwendungen dieser Gleichung zeigen wird.
+Aber was, wenn die vorläufige kosmologische Verbindung zwischen Entropie und Intelligenz Hinweise auf eine tiefere Beziehung hinweist?
+Was, wenn intelligentes Verhalten nicht nur mit der Produktion von langfristiger Entropie einhergeht, sondern sogar direkt daraus entsteht?
+Um dies herauszufinden, entwickelten wir eine Software-Maschine namens Entropica, entworfen, um die Produktion von langfristiger Entropie von jedem System,  in dem sie sich befindet, zu maximieren.
+Erstaunlicherweise war Entropica in der Lage, mehrere Intelligenztests für Tiere zu bestehen, menschliche Spiele zu spielen, und sogar beim Handel mit Aktien Geld zu verdienen, ohne dass ihr dies beigebracht wurde.
+Hier sind einige Beispiele von Entropica in Aktion.
+Genau wie ein Mensch, der aufrecht steht, ohne zu stürzen, sehen wir Entropica hier automatisch eine Stange balancieren unter Verwendung eines Wagens.
+Ich denke, wir alle verstecken etwas.
+Ihr Versteck kann es sein, jemandem zum ersten Mal zu sagen, dass Sie sie lieben, oder jemandem zu sagen, dass Sie schwanger sind, oder jemandem zu sagen, dass Sie Krebs haben, oder jedes der anderen schwierigen Gespräche, die wir in unserem Leben haben.
+Ein solches Geheimnis führt unweigerlich zu einem schwierigen Gespräch. Die Themen können sehr unterschiedlich sein, aber es läuft auf das Gleiche hinaus: Man muss mit der Wahrheit herausrücken.
+Es ist beängstigend, und wir hassen es, aber es muss getan werden.
+Vor einigen Jahren arbeitete ich im South Side Walnut Café, einem Restaurant in der Stadt, und während meiner Zeit dort durchlebte ich Phasen von militanter lesbischer Intensität: nicht meine Achselhöhlen rasieren, Ani DiFranco Texte wie ein Evangelium vortragen.
+Und je nachdem, wie weit meine Cargo-Shorts waren und wie lang es her war, dass ich meinen Kopf rasiert hatte, wurde ich oft gefragt, meist von kleinen Kindern: "Hm, bist du ein Junge oder ein Mädchen?"
+Und dann herrschte unangenehme Stille am Tisch.
+Ich presste dann meinen Kiefer etwas enger zusammen, hielt meine Kaffeekanne mit ein wenig mehr Rache.
+Der Vater würde unbeholfen mit seiner Zeitung rascheln und die Mutter ihrem Kind über den Tisch einen kalten Blick zuwerfen..
+Aber ich sage nichts, und ich koche innerlich.
+Also versprach ich mir, das nächste Mal würde ich etwas sagen.
+Ich würde dieses harte Gespräch führen.
+Und innerhalb weniger Wochen passierte es wieder.
+"Bist du ein Junge oder ein Mädchen?"
+Ich habe meine Zitate von Gloria Steinem.
+Ich habe sogar dieses kleine Stück von "Vagina-Monologe", das ich sagen werde.
+Also tue  ich einen tiefen Atemzug und ich sehe nach unten und mir starrt ein 4-jähriges Mädchen in einem pinken Kleid entgegen, keine Herausforderung für eine Feministen-Duell, nur ein Kind mit einer Frage: "Sind Sie ein Junge oder sind Sie ein Mädchen?"
+Also nahm ich einen tiefen Atemzug, ging neben ihr in die Hocke und sagte: "Hey, ich weiß, es ist irgendwie verwirrend.
+Mein Haar ist kurz wie das eines Jungen und ich trage Jungenkleidung, aber ich bin ein Mädchen, und weißt du, wie du manchmal gerne ein pinkes Kleid trägst, und du machmal gerne deine komfortablen Jammies?
+Ich mag nun mal lieber gemütliche Schlafanzüge."
+Und dieses Kind sieht mir direkt in die Augen und sagt schnurstracks: „Mein Lieblings-Pyjama ist lila mit Fischen.
+Kann ich bitte einen Pfannkuchen haben?"
+Wie wäre es mit diesem Pfannkuchen? "
+Das war das einfachste schwierige Gespräch, das ich je gehabt habe.
+Und warum? Weil das Pfannkuchenmädchen und ich ehrlich miteinander waren.
+Also, wie viele von uns, lebte ich in meinem Leben in einigen Schränken, und ja, meistens waren meine Wände regenbogenfarben.
+Aber im Inneren, im Dunkeln, können Sie nicht sagen, welche Farbe die Wände haben.
+Man weiß nur, wie schwer es ist, die Last mit sich herumzutragen.
+Also, mein Versteck ist wirklich nicht anders als Ihres oder Ihres oder Ihres.
+Klar, ich gebe Ihnen 100 Gründe, warum es schwieriger war, aus meinem Schrank herauszukommen, als aus Ihrem, aber hier ist der Punkt: Hart ist nicht relativ.
+Schwer ist schwer.
+Wer kann mir sagen, dass jemandem zu erklären, dass  Sie gerade Insolvenz angemeldet haben härter ist, als jemand zu sagen, Sie hätten ihn gerade betrogen?
+Warum sollte es schwieriger sein, sich zu seiner Homosexualität zu bekennen, als seinem 5-Jährigen zu erzählen, dass man sich scheiden lässt?
+Es gibt nicht schwieriger, es gibt nur schwierig.
+Wir müssen aufhören, unser Päckchen mit denen anderer zu vergleichen, um uns besser oder schlechter zu fühlen und uns zu bemitleiden, dass wir es schwer haben.
+Irgendwann in unserem Leben, leben wir alle in Schränken, und sie können sich sicher anfühlen, oder zumindest sicherer als das, was auf der anderen Seite der Tür liegt.
+Aber ich bin hier, um Ihnen zu sagen, egal, woraus Ihre Barrieren bestehen, es ist kein Ort für Menschen, dahinter zu leben.
+Ich selbst hatte einen Pferdeschwanz, ein trägerloses Kleid und hochhackige Schuhe.
+Ich war nicht die militante Lesbe, bereit, mit jeder 4-jährigen zu kämpfen, die das Café betrat.
+Ich war vor Angst erstarrt, rollte mich in der Ecke meines pechschwarzen Raums zusammen, umklammerte meine Granate des Lesbischseins und auch nur einen Muskel zu bewegen, war das Schrecklichste, was ich je getan habe.
+Meine Familie, meine Freunde, komplett Fremde -- ich hatte mein ganzes Leben damit verbracht, diese Leute nicht zu enttäuschen, und jetzt stellte ich die Welt mit Absicht auf den Kopf.
+Ich hatte vor 18 Jahren eine Gehirnoperation, und seitdem ist Hirnforschung meine persönliche Leidenschaft.
+Ich bin eigentlich Ingenieurin.
+Also, das gesagt, gibt es ein Stigma, wenn man sich Gehirnchirurgie unterziehen muss.
+Sind Sie immer noch intelligent oder nicht?
+Und wenn nicht, können Sie sich selbst intelligent machen?
+Sofort nach meiner Operation hatte ich zu entscheiden, welche Mengen von jedem von mehr als ein Dutzend starken Chemikalien ich jeden Tag zu mir nehmen würde, denn wenn ich einfach nichts nehmen würde, würde ich innerhalb von Stunden sterben.
+Ich bin dem Tod mehrmals knapp entronnen.
+Aber glücklicherweise bin ich im Herzen ein Experimentleiter, also beschloss ich, ein Experiment zu machen, um zu versuchen, optimalere Dosierungen zu finden, weil es dazu wirklich keine klare Anleitung gibt, die detailliert ist.
+Ich fing an, verschiedene Mischungen auszuprobieren, und ich war verblüfft, wie kleine Änderungen in den Dosen mein Selbstbild dramatisch veränderten, mein Gefühl davon, wer ich war, mein Denken, mein Verhalten gegenüber Menschen.
+Eine besonders dramatischen Fall: Für ein paar Monate probierte ich tatsächlich Dosen und Chemikalien, die typisch für einen Mann in seinen frühen Zwanzigern sind, und ich war überascht davon, wie meine Gedanken sich veränderten.
+Ich war irgendwie extremen.
+Aber für mich war die Überraschung, dass ich nicht versuchte, übermütig zu werden.
+Ich versuchte eigentlich, mit ein wenig Unsicherheit, tatsächlich ein Problem vor mir zu beheben, und es ging einfach nicht aus dem Weg.
+Aber diese Erfahrung, denke ich, gab mir eine neue Wertschätzung für Männer und was sie durchmachen können, und ich bin seither mit Männern viel besser ausgekommen.
+Was ich versuchte, als ich das Tuning diese Hormone und Neurotransmitter und so weiter durchführte war es, zu versuchen, meine Intelligenz nach meiner Krankheit und Chirurgie zurückzubekommen, mein kreatives Denken, meinen Ideenfluss.
+Und ich denke vor allem in Bildern, und so wurde das für mich zum Maßstab - wie kann ich diese mentalen Bilder erhalten, die ich sozusagen als eine Art von schnellem Prototyping für meine Ideen, das Erproben neuer Ideen für Größe, Szenarien durchzuspielen, nutze.
+Diese Art des Denkens ist nicht neu.
+Philiosophen wie Hume und Descartes und Hobbes sahen die Dinge ähnlich.
+Sie dachten, dass mentale Bilder und Ideen tatsächlich das Gleiche sind.
+Es gibt heutzutage die, die das bestreiten und viele Debatten darüber, wie der Verstand funktioniert, aber für mich ist es einfach: Mentale Bilder sind, für die meisten von uns, zentrale für erfinderisches und kreatives Denken.
+Also habe ich mich nach einigen Jahren getunt und habe viele großartige, wirklich lebendige mentale Bilder mit einer Menge von Raffinement und das analytische Rückgrat hinter ihnen.
+Und jetzt arbeite ich daran, wie ich diese mentalen Bilder aus meinem Kopf schneller auf meinen Computerbildschirm bekomme.
+Können Sie sich vorstellen, wenn man so will, dass ein Regisseur in der Lage ist, nur seine Vorstellungskraft allein zu nutzen, um die Welt vor ihm zu formen?
+Oder ein Musiker, um die Musik aus seinem Kopf zu erhalten?
+Damit gibt es unglaubliche Möglichkeiten für kreative Menschen, mit Lichtgeschwindigkeit Dinge zu teilen.
+Lassen Sie mich Ihnen zeigen, warum ich glaube, dass wir ziemlich nahe daran sind. Zwei Experimente von zwei Top-Neurowissenschafts-Gruppen möchte ich mit Ihnen teilen.
+Beide verwenden fMRI-Technologie -- funktionelle Magnetresonanztomographie-Technologie -- um das Gehirn abzubilden, und hier ist ein Gehirnscan von Giorgio Ganis und seinen Kollegen in Harvard.
+Und die linke Spalte zeigt ein Gehirnscan von einer Person, die ein Bild betrachtet.
+Die mittlere Spalte zeigt den Gehirnscan des gleichen Individuums, das sich vorstellt, dasselbe Bild zu sehen.
+Und die rechte Spalte wurde durch Subtraktion der mittleren Spalte von der linken Spalte erzeugt und zeigt eine Differenz von nahezu null.
+Das wurde bei vielen verschiedenen Individuen mit vielen verschiedenen Bildern wiederholt, immer mit einem ähnlichen Ergebnis.
+Der Unterschied zwischen dem Sehen eines Bildes und der Vorstellung, das gleiche Bild zu sehen, ist gleich null.
+Als nächstes möchte ich mit Ihnen ein anderes Experiment teilen, das von Jack Gallant 's Labor in Cal Berkeley.
+In diesem Experiment wurde Individuen Hunderte von Stunden an YouTube-Videos gezeigt, während Scans von Ihren Gehirnen gemacht wurden, um eine große Bibliothek von ihrem Gehirn, das auf Videosequenzen reagiert, zu kreieren.
+In vielen patriarchalischen Gesellschaften und Stammesgesellschaften sind Väter meist durch ihre Söhne bekannt, aber ich bin einer der wenigen Väter, der durch seine Tochter bekannt ist, und ich bin stolz darauf.
+Früher war sie meine Tochter, aber jetzt bin ich ihr Vater.
+Meine Damen und Herren, wenn wir einen Blick auf die Geschichte der Menschheit werfen, dann ist die Geschichte von Frauen die Geschichte von Ungerechtigkeit, Ungleichheit, Gewalt und Ausbeutung.
+Sie werden nicht begrüßt, weder von Vater noch von Mutter.
+Die Nachbarschaft kommt und bemitleidet die Mutter, und niemand gratuliert dem Vater.
+Und einer Mutter ist es sehr unangenehm, ein Mädchen zu bekommen.
+Wenn sie das erste Mädchen, die erste Tochter, zur Welt bringt, ist sie traurig.
+Wenn sie die zweite Tochter bekommt, ist sie schockiert, und in der Erwartung eines Sohn, wenn sie eine dritte Tochter bekommt, fühlt sie sich schuldig wie ein Krimineller.
+Nicht nur die Mutter leidet, aber die Tochter, die neugeborene Tochter wächst mit dem Leid auf.
+Im Alter von fünf, wenn sie zur Schule gehen sollte, bleibt sie zu Hause und ihre Brüder werden in einer Schule aufgenommen.
+Bis zum Alter von 12 hat sie irgendwie ein gutes Leben.
+Sie kann Spaß haben.
+Sie kann mit ihren Freunden in den Straßen spielen , und sie kann sich in den Straßen wie ein Schmetterling bewegen.
+Aber wenn sie in ihre Teens kommt, wenn sie 13 Jahre alt wird, ist es ihr verboten ohne männliche Begleitung aus ihrem Heim zu gehen.
+Sie ist auf die vier Wände ihres Zuhauses beschränkt.
+Sie ist nicht mehr ein freies Individuum.
+Sie wird die so genannte Ehre ihres Vaters und ihrer Brüder und ihrer Familie, und wenn sie den Kodex dieser sogenannten Ehre überschreitet, könnte sie sogar getötet werden.
+Und es ist auch interessant, dass dieser so genannte Code der Ehre sich nicht nur auf das Leben eines Mädchens auswirkt, er wirkt sich auch auf das Leben der männlichen Mitglieder der Familie aus.
+Ich kenne eine Familie mit sieben Schwestern und einem Bruder, und dieser Bruder ist in die Golfstaaten gezogen, um den Lebensunterhalt für seine sieben Schwestern und Eltern zu verdienen, weil er glaubt, dass es erniedrigend wäre, wenn seine sieben Schwestern einen Beruf lernen und aus dem Haus gehen und einige Lebensunterhalt verdienen würden.
+Also opfert dieser Bruder die Freuden seines Lebens und das Glück seiner Schwestern auf dem Altar der sogenannten Ehre.
+Und es gibt noch eine Norm der patriarchalischen Gesellschaften, die Gehorsam genannt wird.
+Ein gutes Mädchen soll sehr ruhig, sehr bescheiden und sehr unterwürfig sein.
+Das sind die Kriterien.
+Das Vorbild eines guten Mädchens sollte sehr ruhig sein.
+Sie soll leise sein und die Entscheidungen von ihrem Vater und ihrer Mutter und die Entscheidungen der Ältesten akzeptieren, auch wenn sie sie nicht mag.
+Ansonsten wird sie ungehorsam genannt.
+Und was passiert am Ende?
+Mit den Worten einer Dichterin, sie wird verheiratet, landet im Bett und dann gebiert sie mehr Söhne und Töchter.
+Und dieser Teufelskreis geht weiter und weiter.
+Meine Damen und Herren, diese Notlage von Millionen von Frauen könnte verändert werden, wenn wir anders denken, wenn Frauen und Männer anders denken, wenn Männer und Frauen in Stammes- und in patriarchalischen Gesellschaften in den Entwicklungsländern ein paar Normen der Familie und der Gesellschaft brechen können, wenn sie die diskriminierenden Gesetze der Systeme in ihren Staaten, die gegen die grundlegenden Menschenrechte der Frauen verstoßen, abschaffen können.
+Liebe Brüder und Schwestern, als Malala geboren wurde, und zum ersten Mal, glaubt mir, ich mag Neugeborene nicht, um ehrlich zu sein, aber als ich in ihre Augen sah, glaubt mir, fühlte ich mich sehr geehrt.
+Und, lange bevor sie geboren wurde, dachte ich über ihren Namen nach, und ich war fasziniert von einem heroischen legendären Freiheitskämpfer in Afghanistan.
+Ihr Name war Malalai von Maiwand, und ich habe meine Tochter nach ihr benannt.
+Ein paar Tage nach Malalas Geburt kam meine Tochter zur Welt, kam mein Cousin -- und es war ein Zufall -- er kam zu mir nach Hause und er brachte einen Stammbaum, einen Stammbaum der Familie Yousafzai, und als ich mir den Stammbaum ansah, ging der bis 300 Jahren unserer Vorfahren zurück.
+Aber als ich sah, dass alle Männer waren, nahm ich meinen Stift und zog eine Linie von meinem Namen und schrieb: "Malala."
+Als sie viereinhalb Jahre alt war, habe ich sie in meiner Schule angemeldet.
+Sie werden fragen, warum sollte ich die Aufnahme von einem Mädchen in einer Schule erwähnen?
+Ja, ich muss es erwähnen.
+Es kann in Kanada, in Amerika, in vielen entwickelten Ländern als selbstverständlich angesehen werden, aber in armen Ländern, in patriarchalischen Gesellschaften, in Stammesgesellschaften ist es ein großes Ereignis für das Leben eines Mädchens.
+Anmeldung in einer Schule bedeutet Anerkennung ihrer Identität und ihres Namens.
+Der Eintritt in eine Schule bedeutet, dass sie in die Welt der Träume und Sehnsüchte eintritt, wo sie ihre Potenziale erkunden für ihre Zukunft ausschöpfe kann.
+Ich habe fünf Schwestern, und keine von ihnen konnte zur Schule gehen, und Sie werden erstaunt sein – vor zwei Wochen, beim Ausfüllen des kanadischen Visumformulars, konnte ich mich beim Ausfüllen des Familienteils des Formulars nicht an die Nachnamen einiger meiner Schwester erinnern.
+Die Welt macht etwas aus Ihnen, das Sie nicht sind, aber Sie wissen in Ihrem Inneren, was Sie sind un diese Frage brennt in Ihrem Herzen: Wie kann ich das werden?
+Ich bin darin vielleicht etwas einzigartig, aber ich bin nicht allein, überhaupt nicht allein.
+Als ich Modell wurde, fühlte ich, dass ich schließlich den Traum, das, was ich immer wollte, seit ich ein kleines Kind war, erreicht hatte.
+Endlich passten meine äußere Erscheinung und meine innere Wahrheit, mein inneres Selbst, zusammen.
+Aus komplexen Gründen, die ich später erklären werde, wenn ich dieses Bild ansehe, zu diesem Zeitpunkt fühlte ich mich wie, Geena, du hast es erreicht, du hast es geschafft, du bist angekommen.
+Aber letzten Oktober, wurde mir klar, dass ich erst am Anfang bin.
+Alle von uns werden von unserer Familie in Schubladen gesteckt, von unserer Religion, von unserer Gesellschaft, von unserem Moment in der Geschichte, sogar von unserem eigenen Körper.
+Einige Menschen haben den Mut, sich zu befreien, die Einschränkungen, die ihre Hautfarbe, oder die Überzeugung ihrer Mitmenschen ihnen auferlegt, nicht zu akzeptieren.
+Diese Menschen sind immer die Gefahr für den Status quo, für das, was als akzeptabel betrachtet wird.
+In meinem Fall, für die letzten neun Jahren, wussten einige meiner Nachbarn, einige meiner Freunde, Kollegen, auch mein Agent, nichts über meine Geschichte.
+Ich erinnere mich, als ich fünf Jahre alt war, auf den Philippinen in unserem Haus, trug ich immer dieses T-Shirt auf meinem Kopf.
+Und meine Mutter fragte mich: "Wie kommt es, dass du immer dieses T-Shirt auf deinem Kopf trägst?"
+Ich sagte: „Mama, das ist mein Haar. Ich bin ein Mädchen."
+Ich kannte damals meine eigene Identität.
+Geschlecht wurde schon immer als eine Tatsache betrachtet, unveränderlich, aber wir wissen, dass es eigentlich eher fließend, komplex und mysteriös ist.
+Wegen meines Erfolgs hatte ich nie den Mut, meine Geschichte zu erzählen – nicht weil ich dachte, dass das, was ich bin, falsch ist, sondern wegen der Art, wie die Welt diejenigen von uns, die sich befreien möchten, behandelt.
+Jeden Tag bin ich so dankbar, weil ich eine Frau bin.
+Ich habe eine Mutter und Vater und Familie, die mich als die akzeptiert haben, die ich bin.
+Viele haben nicht so viel Glück.
+In Asien gibt es eine lange Tradition, die das Geschlecht als fließendes Mysterium preist.
+Es gibt eine buddhistische Göttin des Mitgefühls.
+Es gibt eine Hindu-Göttin, Hijra Göttin.
+Als ich also acht Jahre alt war, war ich bei einem Fest auf den Philippinen, das diese Rätsel feiert.
+Ich war vor der Bühne, und ich erinnere mich, heraus kommt diese schöne Frau direkt vor mir, und ich erinnere mich, in diesem Moment traf mich etwas: Das ist die Art von Frau, die ich sein möchte.
+Als ich 15 Jahre alt war, immer noch wie ein Junge gekleidet, traf ich diese Frau namens T.L.
+Sie ist eine Managerin für Transgender-Schönheitswettbewerbe.
+In dieser Nacht fragte sie mich: „Wie kommt es, dass Sie nicht bei dem Schönheitswettbewerb mitmachen?"
+Dieser Moment hat mein Leben verändert.
+Plötzlich wurde ich in die Welt der Schönheitswettbewerbe eingeführt.
+Nicht viele Leute können sagen, dass Ihr erster Job eine Schönheitswettbewerb-Königin für Transgender-Frauen war, aber ich schon.
+Im Alter zwischen 15 und 17 Jahren machte ich bei den angesehensten Wettbewerben mit, und bei solchen, die buchstäblich hinten in einem LKW stattfanden, oder manchmal war es der Gehweg neben einem Reisfeld, und wenn es regnete -- es regnet viel auf den Philippinen -- mussten die Organisatoren alles in irgendein Haus verlegen.
+Ich habe auch die Güte von Fremden erfahren, besonders, wenn wir in weit entfernte Provinzen in den Philippinen reisten.
+Aber was am wichtigsten ist, ich traf einige meiner besten Freunde in dieser Gemeinde.
+Im Jahr 2001 rief meine Mutter, die nach San Francisco gezogen war, mich an und sagte mir, dass mein Green-Card-Antrag bewilligt worden war, und ich nun in die Vereinigten Staaten ziehen konnte.
+Ich widerstand.
+Ich sagte meiner Mutter, "Mama, Ich habe Spaß.
+Ich bin hier mit meinen Freunden, ich liebe das Reisen und eine Schönheitswettbewerbskönigin zu sein. "
+Aber dann rief sie mich zwei Wochen später an und sagte, "Wusstest du, dass, wenn du in die Vereinigten Staaten ziehst, du deinen Namen und dein Geschlechts-Kennzeichen ändern könntest?"
+Ich bin vor kurzem von der California Highway Patrol nach 23 Jahren Dienst in den Ruhestand getreten.
+Die Mehrheit der 23 Jahre verbrachte ich auf Streife am südlichen Ende von Marin County, was die Golden Gate Bridge einschließt.
+Die Brücke ist ein ikonisches Bauwerk, das weltweit für seinen schönen Blick auf San Francisco, den Pazifischen Ozean und seine inspirierende Architektur bekannt ist.
+Leider ist sie auch ein Magnet für Selbstmord, als einer der am meisten verwendeten Orte auf der Welt.
+Die Golden Gate Bridge wurde 1937 eröffnet.
+Joseph Strauss, als Chefingenieur verantwortlich für den Bau der Brücke, wird zitiert, gesagt zu haben: "Die Brücke ist praktisch Selbstmord-sicher.
+Selbstmord von der Brücke ist weder praktisch noch wahrscheinlich."
+Aber seit ihrer Eröffnung, sprangen über 1.600 Menschen von dieser Brücke in den Tod.
+Einige glauben, dass die Reisen zwischen den beiden Türmen in eine andere Dimension führt -- diese Brücke wurde so in romantischem Licht dargestellt – und dass der Sturz von allen Sorgen und Trauer befreit und das Wasser unter der Brücke die Seele reinigt.
+Aber lassen Sie mich Ihnen sagen, was tatsächlich passiert, wenn die Brücke als Mittel zum Selbstmord benutzt wird.
+Der Aufschlag zerbricht Knochen, von denen einige dann lebensnotwendige Organe durchstechen.
+Die meisten sterben beim Aufprall.
+Diejenigen, die die das nicht tun, rudern im Allgemeinen hilflos im Wasser und ertrinken dann.
+Ich denke nicht, dass diejenigen, die über diese Methode des Selbstmords nachdenken, erkennen, wie grausig der Tod sein wird, dem sie gegenüber stehen werden.
+Das ist das Kabel.
+Außer rund um die zwei Türme, verlaufen 32-Zoll-Stahlseile an den Seiten der Brücke.
+Hier stehen die meisten Leute, bevor sie sich das Leben nehmen.
+Ich kann Ihnen aus Erfahrung sagen, dass, sobald sich die Person auf dem Kabel befindet, und in ihren dunkelsten Zeiten, es sehr schwierig ist, sie zurück zu bringen.
+Ich schoss dieses Foto im letzten Jahr als diese junge Frau mit einem Beamten ihr Leben abwägte.
+Ich möchte Ihnen sehr glücklich erzählen, dass wir sie an diesem Tag erfolgreich zurück geholt haben.
+Als ich zum ersten Mal auf der Brücke stand, hatten wir keine formale Ausbildung.
+Sie versuchten einfach, einen Weg durch diese Anrufe zu finden.
+Das tat nicht nur denjenigen, die Selbstmord begehen wollten, sondern auch den Polizisten Unrecht.
+Wir seitdem einen langen, langen Weg gegangen.
+Nun, trainieren alte Beamte und Psychologen neue Beamte.
+Das ist Jason Garber.
+Ich habe Jason letztes Jahr am 22. Juli getroffen, als ich einen Anruf erhielt, in dem es um einen möglicherweise Suizidgefährdeten ging, der ungefähr in der Mitte der Brücke auf dem Kabel saß.
+Ich antwortete, und als ich ankam, beobachtete ich, dass Jason mit einem Polizeibeamten der Golden Gate Bridge sprach.
+Jason war erst 32 Jahre alt und war aus New Jersey hierher geflogen.
+Nach etwa einer Stunde mit Jason fragte er uns, ob wir die Geschichte der Pandora kennen.
+In der griechischen Mythologie hatte Zeus Pandora geschaffen und schickte sie auf der Erde mit einer Kiste, und sagte ihr, "öffne niemals diese Kiste."
+Eines Tages konnte Pandora der Neugier nicht mehr widerstehen und sie öffnete die Büchse.
+Heraus kamen Seuchen, Sorgen, und alle möglichen Arten von Übel gegen Menschen.
+Die einzige gute Sache in der Schachtel war Hoffnung.
+Jason fragte uns dann: "Was passiert, wenn man die Box öffnet und die Hoffnung ist nicht da?"
+Er wartete einen Moment, lehnte sich zu seiner Rechten und war weg.
+Dieser nette intelligente junge Mann aus New Jersey hatte sich gerade das Leben genommen.
+Ich habe an jenem Abend mit Jasons Eltern gesprochen und ich glaube, als ich mit ihnen sprach, hörte ich mich nicht sonderlich gut an, denn schon am nächsten Tag rief mich der Rabbi der Familie an, um sich nach mir zu erkundigen.
+Jasons Eltern hatten ihn darum gebeten.
+Die "Nebenwirkung" eines Selbstmords wirkt sich auf so viele Menschen aus.
+Ich stelle Ihnen diese Fragen: Was würden Sie tun, wenn Ihr Familienmitglied, Freund oder geliebter Mensch suizidgefährdet wäre?
+Was würden Sie sagen?
+Würden Sie wissen, was zu sagen ist?
+Nach meiner Erfahrung,  ist es nicht nur das Reden, sondern das Zuhören.
+Zuhören, um zu verstehen.
+Nicht argumentieren, keine Schuldzuweisungen machen, oder der Person sagen, dass Sie wissen, wie sie sich fühlt, denn das wissen Sie wahrscheinlich nicht.
+Durch einfach nur da zu sein können Sie den Wendepunkt darstellen, den sie brauchen.
+Wenn Sie denken, dass jemand suizidgefährdet ist, haben Sie keine Angst, diese Person damit zu konfrontieren.
+Eine Möglichkeit, die Frage zu stellen, wäre: "Andere in ähnlichen Umständen, haben darüber nachgedacht, ihr Leben zu beenden, hast du diese Gedanken?"
+Die Person darauf anzusprechen, kann ihr Leben retten und der Wendepunkt für sie sein.
+Einige andere Zeichen, nach denen man Ausschau halten kann: Hoffnungslosigkeit, zu glauben, dass die Dinge schrecklich sind und nie besser werden; Hilflosigkeit, zu glauben, dass man nichts dagegen tun kann; seit neulich sozialer Rückzug; und ein Verlust des Interesses am Leben.
+Ich habe diesen Vortrag erst vor ein paar Tagen erstellt und ich erhielt eine E-Mail von einer Frau, deren Brief ich Ihnen vorlesen möchte.
+Sie verlor ihren Sohn am 19. Januar dieses Jahres, und sie schrieb mir diese E-Mail vor nur ein paar Tagen, und ich lese Sie Ihnen mit ihrer Erlaubnis und ihrem Segen vor.
+"Hallo, Kevin. Ich stelle mir vor, Sie sind in der TED-Konferenz.
+Das muss eine ziemliche Erfahrung sein, dort zu sein.
+Ich denke, dass ich dieses Wochenende die Brücke entlang gehen sollte.
+Ich wollte Ihnen nur eine kleine Nachricht hinterlassen.
+Ich hoffe, Sie teilen die Worte vielen Menschen mit und diese gehen nach Hause, sprechen darüber mit ihren Freunden, die es wiederum ihren Freunden erzählen, usw.
+Ich bin immer noch ziemlich betäubt, und bemerke mehr Momente, in denen ich realisiere, dass Mike nicht mehr nach Hause kommt.
+Mike fuhr von Petaluma nach San Francisco, um das Spiel der 49er mit seinem Vater am 19. Januar zu sehen.
+Was haben Augmented Reality (Erweiterte Realität) und professioneller Fußball mit Empathie zu tun?
+Und was ist die Fluggeschwindigkeit einer unbeladenen Schwalbe?
+Leider werde ich heute nur eine dieser Fragen beantworten, seien Sie also bitte nicht zu enttäuscht.
+Wenn die meisten Menschen an Augmented Reality denken, denken sie an "Minority Report" und Tom Cruise mit seinen Händen in der Luft, aber Augmented Reality ist keine Science-Fiction.
+Erweiterte Realität ist etwas, das während unserer Lebenszeit passieren wird, und sie wird passieren, weil wir die Werkzeuge haben, um sie passieren zu lassen, und die Leute müssen sich dessen bewusst sein, weil die erweiterte Realität unser Leben verändern wird, genauso wie das Internet und das Handy.
+Nun, wie kommen wir zur erweiterten Realität?
+Der erste Schritt ist der Schritt, den ich jetzt trage, Google Glass.
+Ich bin sicher, viele von Ihnen sind vertraut mit Google Glass.
+Was Sie vielleicht nicht kennen, ist, dass Google Glass ein Gerät ist, das Ihnen ermöglicht, zu sehen, was ich sehe.
+Es erlaubt Ihnen, um zu erfahren, was es ist, ein professioneller Sportler auf dem Feld zu sein.
+Im Moment können Sie das nur erleben, wenn ich es Ihnen beschreibe.
+Ich muss Wörter verwenden.
+Ich muss einen Rahmen schaffen, den Sie dann mit Ihrer Vorstellungskraft ausfüllen.
+Mit Google Glass können wir das unter einem Helm bringen, und wir können ein Gefühl dafür bekommen, wie es ist, ist das Feld mit 100 Meilen pro Stunde hinunter zu rennen, Ihr Blut klopft dabei in Ihren Ohren.
+Sie können ein Gefühl dafür bekommen, wie es ist, wenn eine 250-Pfund-Mann auf Sie zusprintet, um zu versuchen, Sie mit jedem Körnchen seiner Existenz zu enthaupten.
+Und ich war auf der Empfängerseite davon, und es fühlt sich nicht sehr gut an.
+Lassen Sie uns ein paar Videos ansehen.
+Gehen Sie.
+Ach, angerempelt zu werden, ist beschissen.
+Warte, gehen wir ein wenig näher ran.
+Okay, bereit?
+Los!
+Nun, Sie haben vielleicht bemerkt, dass einige Leute dort fehlen: der Rest des Teams.
+Wir haben ein paar Videos, die von der University of Washington.
+Quarterback: Hey, Mice 54! Mice 54!
+Blue 8! Blue 8! Weiter!
+Oh!.
+Fans wollen diese Erfahrung.
+Fans wollen auf dem Feld sein.
+Sie wollen ihre Lieblings-Spieler werden, und sie haben bereits auf YouTube zu mir gesprochen, auf Twitter mir gesprochen, sagen: "Hey, können Sie diese auf einen Quarterback bringen?
+Nun, wenn wir diese Erfahrung einmal mit GoPro und Google Glass haben, wie machen wir sie immersiver?
+Wie nehmen wir den nächsten Schritt?
+Die Oculus Rift wurde als eines der realistischen Virtual-Reality-Geräte beschrieben, das jemals geschaffen wurde, und das ist nicht leerer Hype.
+Ich zeige Ihnen mit diesem Video, warum das nicht nur Medienrummel ist.
+ Oh! Oh!  
+Nein! Nein! Nein! Ich will nicht mehr spielen! Nein!
+Oh mein Gott! Aaaah!
+Das ist die Erfahrung eines Mannes auf einer Achterbahn – in Todesangst.
+Was denken Sie,wird seine Erfahrung sein, wenn er in der olympischen Abfahrt mit über 70 Meilen pro Stunde einen Berghang hinunter fährt?
+Ich denke, der Umsatz von Windeln für Erwachsene kann ansteigen.
+Aber das ist noch nicht erweiterte Realität.
+Das ist nur virtuelle Realität, V.R.
+Wie kommen wir zu erweiterter Realität oder augmented reality?
+Wir schaffen das, wenn Trainer, Manager und Besitzer diese Informationen auswerten, und sich fragen: "Wie verbessern wir damit unser Team?
+Wie können wir dies Nutzen, um diese Spiele zu gewinnen?"
+Weil Teams immer Technologie verwenden, um Spiele zu gewinnen.
+Sie gewinnen. Es bringt Ihnen Geld.
+Also eine kurze Geschichte von Technologie in der NFL.
+1965 legen die Baltimore Colts ihrem Quarterback ein Armband an, damit er Spiele schneller rufen kann.
+Sie gewannen schließlich den SuperBowl.
+Andere Teams folgten.
+Mehr Menschen sahen das Spiel, weil es spannender war.
+Es war schneller.
+1994 installierte der NFL Helmradios in die Helme der Quarterbacks, und später der Verteidigung.
+Mehr Menschen sahen Spiele, weil es schneller ging.
+Es war unterhaltsamer.
+In 2023, stellen Sie sich vor, Sie sind ein Spieler der zurück zur Horde läuft und Ihr nächstes Spiel wird direkt vor Ihrem Gesicht auf Ihrem Kunststoffvisier angezeigt, dass Sie auch jetzt schon tragen.
+Ich wuchs in einer sehr kleinen Stadt auf dem Lande in Victoria auf.
+Ich hatte eine sehr normale, unaufgeregte Art von Erziehung.
+Ich ging zur Schule, ging mit Freunden aus, zankte mit meinen jüngeren Schwestern.
+Es war alles sehr normal.
+Und als ich 15 war, kam ein Mitglied von meiner lokalen Gemeinschaft zu meinen Eltern und wollte mich für einen Gemeinschaftspreis nominieren.
+Und meine Eltern sagten:„Hm, das ist wirklich nett, aber es gibt ein großes Problem damit.
+Sie hat nicht wirklich etwas erreicht." Und sie hatten recht, wissen Sie.
+Ich ging zur Schule, ich hatte gute Noten, ich hatte einen sehr niedrig bezahlten Job im Friseursalon meiner Mutter nach der Schule und ich verbrachte viel Zeit damit, "Buffy die Vampirjägerin" und "Dawson  s Creek" anzusehen.
+Ja, ich weiß. Was für ein Widerspruch.
+Aber sie hatten Recht, wissen Sie.
+Jahre später war ich auf meiner zweiten Unterrichtsrunde in einer High School in Melbourne, und nach etwa 20 Minuten in der 11. Klasse eines Rechtskurses meldete sich ein Junge und fragte: "Hey, wann werden Sie Ihre Rede anfangen?"
+ „Welche Rede?”, wollte ich wissen.
+Ich hatte immerhin 20 Minuten über Verleumdung und üble Nachrede gesprochen.
+Und er sagte: "Wissen Sie, so wie Ihre Motivationsansprache.
+Wissen Sie, wenn Leute im Rollstuhl zur Schule kommen, sagen sie gewöhnlich, also, inspirierende Zeug? "
+"Es ist normalerweise in der Aula."
+Und da dämmerte es mir: Dieses Kind hatte behinderte Menschen nur als Objekte der Inspiration erfahren.
+Wir sind das nicht, für dieses Kind -- und das ist nicht seine Schuld, ich meine, das trifft auf viele von uns zu.
+Für viele von uns sind behinderte Menschen nicht unsere Lehrer oder unsere Ärzte oder unsere Handpfleger.
+Wir sind keine echten Menschen. Wir sind da, um zu inspirieren.
+Und tatsächlich sitze ich hier auf dieser Bühne und sehe so aus, wie ich im Rollstuhl nun mal aussehe und Sie erwarten wahrscheinlich irgendwie von mir, dass ich Sie inspiriere. Stimmt's? Ja.
+Nun, meine Damen und Herren, ich fürchte, ich werde ich Sie schrecklich enttäuschen.
+Ich bin nicht hier, um Sie zu inspirieren.
+Ich bin hier, um Ihnen zu sagen, dass wir über Behinderung gelogen haben.
+Es ist keine schlechte Sache, und es macht dich nicht außergewöhnlich.
+Und in den letzten Jahren waren wir in der Lage, diese Lüge über soziale Medien noch weiter zu verbreiten.
+Sie können Bilder wie dieses hier gesehen haben: „Die einzige Behinderung im Leben ist eine schlechte Haltung."
+Oder dieses hier: "Ihre Ausrede ist ungültig." Genau.
+Oder dieses hier: "Bevor Sie aufhören, versuchen Sie es!"
+Dies sind nur ein paar Beispiele, aber es gibt eine Menge von diesen Bildern da draußen.
+Sie kennen vielleicht das von dem kleinen Mädchen ohne Hände, das mit dem Stift im Mund ein Bild malt.
+Vielleicht haben Sie ein Kind gesehen, das auf Kohlefaser-Beinprothesen läuft.
+Und diese Bilder, es gibt viele von ihnen da draußen, sie sind, was wir Inspirations-Porno nennen.
+Ich benutze das Wort Pornografie absichtlich, denn hier macht man Menschen zu Objekten, damit andere profitieren.
+In diesem Fall objektivieren wir behinderte Menschen zum Nutzen nicht behinderter Menschen.
+Der Zweck dieser Bilder ist es, zu inspirieren, zu motivieren, damit wir sie ansehen und denken, "Nun, aber egal wie schlecht mein Leben ist, es könnte noch schlimmer sein.
+Ich könnte diese Person sein."
+Aber was, wenn Sie diese Person sind?
+Ich kann die Anzahl der Male, die Fremde an mich herantraten und mir sagen wollten, dass sie denken, dass ich bin mutig oder inspirierend bin, und das war lange bevor meine Arbeit eine Art von öffentlichem Profil hatte.
+Sie waren nur nett und gratulierten mir dafür, dass ich es schaffe, morgens aufzustehen und mich an meinen Namen zu erinnern. Und das ist objektivierend.
+Diese Bilder, diese Bilder objektivieren behinderte Menschen zum Nutzen der nicht-behinderten Menschen.
+Sie gibt es, damit man sie ansehen und denken kann, dass die Dinge nicht so schlecht für Sie sind, um Ihre Sorgen in Perspektiven zu setzen.
+Am 5. November 1990, ging ein Mann namens El-Sayyid Nosair in ein Hotel in Manhattan und ermordete Rabbi Meir Kahane, den Anführer der Jewish Defense League.
+Nosair war des Mordes zunächst nicht schuldig befunden, aber während er aufgrund geringerer Vergehen einsaß, begannen er und andere Männer Angriffe auf ein Dutzend New Yorker Sehenswürdigkeiten, darunter Tunnel, Synagogen und den Hauptsitz der Vereinten Nationen zu planen.
+Glücklicherweise wurden diese Pläne durch einen FBI-Informanten durchkreuzt.
+Leider, die 1993 Bombardierung des World Trade Centers nicht.
+Geboren wurde ich in Pittsburgh, Pennsylvania im Jahr 1983 als Sohn eines ägyptischen Ingenieurs und einer liebevollen amerikanischen Mutter und Grundschulelehrerin, die ihr Bestes gaben, um mir eine glückliche Kindheit zu bescheren.
+Erst als ich sieben Jahre alt war, begann unsere Familiendynamik sich zu verändern.
+Mein Vater stellte mir eine Seite des Islam vor, die nur wenige Menschen, einschließlich der meisten Moslems, je zu sehen bekommen.
+Jedoch gibt es in jeder Religion, in jedem Volk, einen kleinen Prozentsatz von Menschen, die so inbrünstig an ihrem Glauben festhalten, dass sie glauben, sie müssten alles in ihrer Macht Stehende tun, um andere dazu zu bringen, so wie sie zu leben.
+Wir kamen an der Calverton-Schießanlage an, die ohne unser Wissen vom FBI beobachtet wurde.
+An diesem Tag, schoss ich mit meiner letzten Kugel das kleine orangefarbene Licht ab, das auf dem Ziel saß und alle, insbesondere ich, waren überrascht, dass das gesamte Ziel in Flammen aufging.
+Das fanden sie alle anscheinend sehr amüsant, aber erst ein paar Jahre später, verstand ich wirklich, was sie daran so lustig fanden.
+Sie dachten, ich hatte die gleiche Zerstörungskraft, zu der mein Vater imstande war.
+Diese Männer würden schließlich verurteilt werden, einen mit 1500 Pfund Sprengstoff gefüllten Lieferwagen in der Tiefgarage des Nordturms des World Trade Centers zu parken, was zu einer Explosion führte, die sechs Menschen tötete und über 1000 andere verletzte.
+Das waren die Männer, zu denen ich aufsah.
+Das waren die Männer, die ich ammu nannte, was Onkel bedeutet.
+Als ich 19 wurde, war ich schon 20 Mal in meinem Leben umgezogen, und diese Instabilität während meiner Kindheit bat nicht wirklich die Möglichkeit, mir viele Freunde zu machen.
+Jedes Mal, wenn ich begann mich bei jemandem wohlzufühlen, war es Zeit, einzupacken und die nächste Stadt zu ziehen.
+Als das ewige neue Gesicht in der Klasse, war ich das Ziel der Schläger.
+Also zum größten Teil, verbrachte ich meine Zeit zu Hause mit Bücher lesen, fernsehen oder mit Videospielen.
+Daher hatte ich mangelnde soziale Fähigkeiten, was eine Untertreibung ist, und da ich in einem bigotten Haushalt aufwuchs, war ich nicht auf die echte Welt vorbereitet.
+Ich war dazu erzogen worden, Menschen aufgrund von willkürlichen Maßstäben zu beurteilen, wie die Rasse oder Religion einer Person.
+Also, was hat meine Augen geöffnet?
+Eine meiner ersten Erfahrungen, die diese Denkweise herausgefordert hat, war während der Präsidentschaftswahlen 2000.
+Bei der Vorbereitung aufs College konnte ich an der National Youth Convention in Philadelphia teilnehmen.
+Das Hauptthema meiner Gruppe war Jugendgewalt war, und als Opfer von Mobbing für den größten Teil meines Lebens, war das ein Thema, für das ich mich besonders leidenschaftlich begeistern konnte.
+Genau jetzt haben Sie einen Film, der in Ihrem Kopf spielt.
+ Es ist ein beeindruckender, mehrspuriger Film.
+Er hat 3D-Bild und Surround Sound für das, was Sie jetzt gerade sehen und hören, aber das ist nur der Anfang.
+Ihr Film hat Geruch und Geschmack und Tastgefühl.
+Er hat einen Sinn für Ihren Körper, Schmerz, Hunger, Orgasmen.
+Er hat Emotionen, Wut und Glück.
+Es hat Erinnerungen, wie Szenen aus Ihrer Kindheit, die vor Ihnen spielen.
+Und er hat diese konstante Stimme, die in Ihrem Strom bewussten Denkens erzählt.
+Im Herzen des Films sind Sie, die all dies direkt erleben.
+Dieser Film ist Ihr Bewusstseinsstrom, das Thema der Erfahrung des Geistes und der Welt.
+Das Bewusstsein ist eines der grundlegenden Fakten der menschlichen Existenz.
+Jeder von uns ist bewusst.
+Wir haben alle unseren eigenen inneren Film, Sie und Sie und Sie.
+Es gibt nichts, worüber wir Direkteres wissen.
+Zumindest ich erlebe mein Bewusstsein direkt.
+Ich kann nicht sicher sein, dass Sie bewusst sind
+Das Bewusstsein ist auch, was das Leben lebenswert macht.
+Wenn wir uns unserer nicht bewusst wären, hätte nichts in unserem Leben Bedeutung oder Wert.
+Aber gleichzeitig ist es auch das geheimnisvollste Phänomen des Universums.
+Warum sind wir nicht nur Roboter, die all diesen Input verarbeiten, all diesen Output produzieren, überhaupt ohne den inneren Film?
+Heute kennt niemand die Antworten auf diese Fragen.
+Ich schlage vor, dass um das Bewusstsein in Wissenschaft zu integrieren, einige radikale Ideen benötigt werden.
+Einige Leute sagen, dass eine Wissenschaft des Bewusstseins unmöglich ist.
+Wissenschaft ist naturgemäß objektiv.
+Bewusstsein ist von Natur aus subjektiv.
+So kann es nie eine Wissenschaft des Bewusstseins geben.
+Für den Großteil des 20. Jahrhunderts, hielt sich diese Ansicht an der Macht.
+Psychologen studierten Verhalten objektiv, Neurowissenschaftler studierten das Gehirn objektiv, und niemand erwähnte je das Bewusstsein.
+Selbst vor 30 Jahren, als TED begann, gab es war sehr wenig wissenschaftliche Arbeit über das Bewusstsein.
+Nun, vor etwa 20 Jahren, find all das an, sich zu ändern.
+Neurologen wie Francis Crick und Physiker wie Roger Penrose sagten, jetzt ist es Zeit für die Wissenschaft, das Bewusstsein anzugreifen.
+Und seitdem gab es eine echte Explosion, eine Blütezeit der wissenschaftlichen Arbeit über das Bewusstsein.
+Und diese Arbeit war wunderbar. Sie war großartig.
+Aber sie hat bis jetzt auch einige grundlegende Einschränkungen.
+Einen Teil dieser Arbeit haben wir soeben von Nancy Kanwisher gesehen und wundervolle Arbeit, die sie soeben präsentierte.
+Nun verstehen wir viel besser, zum Beispiel die Art von Gehirnbereichen, die zusammen mit der bewussten Erfahrung des Sehens von Gesichtern oder dem Fühlen von Schmerzen oder Glück gehen.
+Aber das ist immer noch eine Wissenschaft der Korrelationen.
+Es ist keine Wissenschaft der Erklärungen.
+Wir wissen, dass diese Gehirnregionen mit bestimmten Arten von bewussten Erfahrungen zusammenhängen, aber wir wissen nicht, warum das so ist.
+Ich möchte das sagen, dass diese Art von Arbeit der Neurowissenschaft einige der Fragen beantwortet, die wir über das Bewusstsein beantwortet haben wollen, die Fragen darüber, was bestimmte Bereiche des Gehirns tun und womit sie zusammenhängen.
+Aber in gewissem Sinne, sind das die einfachen Probleme.
+Nichts gegen die  Neurowissenschaftler.
+Es gibt keine Probleme mit Bewusstsein, die wirklich einfach sind.
+Aber es spricht nicht das echte Geheimnis im Kern von diesem Thema an: Warum sollte all die physikalische Bearbeitung in einem Gehirn überhaupt durch Bewusstsein begleitet werden?
+Warum gibt es diesen inneren subjektiven Film?
+Zur Zeit haben wir nicht wirklich eine Antwort darauf.
+Und man könnte sagen, geben Sie der Neurowissenschaft ein paar Jahre.
+Es wird sich um ein weiteres emergentes Phänomen handeln wie Staus, wie Wirbelstürme, wie das Leben, und wir werden es erklären können.
+Die klassische Fälle von Entstehung sind alle Fälle von emergentem Verhalten, wie ein Stau sich verhält, wie ein Hurrikan funktioniert, wie ein lebender Organismus sich reproduziert und metabolisiert und erhöhen, alles Fragen über objektives Funktionieren.
+Man könnte dies auf das menschliche Gehirn anwenden, indem man Verhaltensweisen und Funktionen des menschlichen Gehirns als emergentes Phänomen erklärt: wie wir gehen, wie wir sprechen, wie wir Schach spielen, alles Fragen des Verhaltens.
+Aber wenn es Bewusstsein geht, gehören Fragen über Verhalten zu den einfachen Problemen.
+Wenn es um die schwierigen Probleme geht, ist die Frage, warum ist es so, dass all dieses Verhalten von subjektiven Erfahrungen begleitet wird?
+Und hier haben das Standard-Paradigma der Emergenz und sogar die Standard-Paradigmen der Neurowissenschaft soweit nicht wirklich so viel zu sagen.
+Was Wissenschaft betrifft, bin ich eigentlich ein Materialist.
+Ich möchte eine wissenschaftliche Theorie des Bewusstseins, die funktioniert, und für eine lange Zeit, rannte ich mit dem Kopf gegen die Wand auf der Suche nach einer Theorie des Bewusstseins in rein physikalischen Bedingungen, die funktionieren würde.
+Aber ich schließlich kam zu dem Schluss, dass das aus systematischen Gründen einfach nicht funktioniert.
+Also denke ich, dass wir hier in einer Art Sackgasse sind.
+Wir haben diese wunderbare, große Kette von Erklärungen, wir sind gewohnt, Physik erklärt Chemie, Chemie erklärt Biologie und Biologie erklärt Teile der Psychologie.
+Aber das Bewusstsein scheint nicht in dieses Bild zu passen.
+Auf der einen Seite, es ist ein Messwert, dessen wir uns bewusst sind.
+Auf der anderen Seite wissen wir nicht, wie wir dies in unser wissenschaftliches Weltbild einordnen sollen.
+Ich denke, dass das Bewusstsein eine Art von Anomalie ist, eine, die wir in unsere Sicht der Welt integrieren müssen, aber noch nicht wissen, wie.
+Konfrontiert mit einer Anomalie wie dieser können radikalen Ideen benötigt werden, und ich denke, dass wir ein oder zwei Ideen brauchen, die zu Beginn verrückt erscheinen, bevor wir das Bewusstsein wissenschaftlich bewältigen.
+Nun, es gibt ein paar Kandidaten, die diese verückten Ideen sein könnten.
+Mein Freund Dan Dennett, der heute hier ist, hat eine.
+Er meint, dass es kein schwieriges Problem mit dem Bewusstsein gebe.
+Die ganze Idee des inneren subjektiven Films beinhaltet eine Art von Illusion oder Verwirrung.
+Eigentlich müssen wir nur das Ziel der Funktionen erklären, das Verhalten des Gehirns, und dann haben wir alles erklärt, was erklärt werden muss.
+Nun, ich sage, mehr Macht an ihn.
+Das ist die Art von radikaler Idee, die wir brauchen, wenn Sie eine rein reduktionistische Gehirn-basierte Theorie des Bewusstseins haben wollen.
+Aber diese Ansicht für mich und viele andere nicht zufriedenstellend, da sie die Existenz des menschlichen Bewusstseins nahezu verleugnet.
+Also gehe ich in eine andere Richtung.
+In der verbleibenden Zeit möchte ich auf zwei verrückte Ideen eingehen, von denen ich denke, dass sie vielversprechend sein könnten.
+Die erste verrückte Idee ist, dass Bewusstsein grundlegend ist.
+Physiker sehen einige Aspekte des Universums als fundamentale Bausteine: Raum, Zeit und Masse.
+Sie postulieren grundlegenden Gesetze für sie, wie die Gesetze der Schwerkraft oder der Quantenmechanik.
+Diese grundlegenden Eigenschaften und Gesetze werden nicht in Bezug auf etwas Grundlegenderes erklärt.
+Vielmehr werden sie als primitiv verstanden, und man baut die Welt von dort auf.
+Manchmal kommt es vor, dass die Liste der fundamentalen Dinge erweitert wird.
+Im 19. Jahrhundert fand Maxwell heraus, dass man elektromagnetische Phänomene nicht in Bezug auf die bestehenden Grundlagen — Raum, Zeit, Masse, Newtons Gesetze – erklären kann, so dass er grundlegende Gesetze des Elektromagnetismus forderte und elektrische Ladung als ein grundlegendes Element, dass diese Gesetze regieren.
+Ich glaube, wir befinden uns mit dem Bewusstsein in der gleichen Situation.
+Wenn man Bewusstsein mithilfe der existierenden Elemente nicht erklären kann -- Raum, Zeit, Masse, Ladung -- dann ist die logische Schlussfolgerung, dass man die Liste erweitern muss.
+Das natürliche Ding, was zu tun ist, ist es, das Bewusstsein selbst als etwas Grundlegendes zu postulieren, als ein grundlegender Baustein der Natur.
+Das heißt nicht, dass man keine Wissenschaft damit treiben kann.
+Dies eröffnet den Weg für Sie, Wissenschaft damit zu betreiben.
+Was wir dann brauchen, ist die Untersuchung der grundlegenden Gesetze, die das Bewusstsein regieren, die Gesetze, die das Bewusstsein mit anderen Grundlagen verbinden: Raum, Zeit, Masse, physikalische Prozesse.
+Physiker sagen manchmal, wir benötigen fundamentale Gesetze, die so simpel sind, dass man sie auf die Vorderseite eines T-Shirts drucken kann.
+Das ist meine Nichte, Stella.
+Sie ist erst ein Jahr alt und begann zu laufen.
+Und sie läuft auf diese wirklich coole Weise, auf die das einjährige Kinder tun, eine Art Schwanken, auf die Art mein-Körper-bewegt-sich-zu-schnell-für-meine-Beine.
+Es ist absolut hinreißend.
+Und eines ihrer Lieblings-Dinge im Moment ist, sich selbst im Spiegel anzustarren.
+Sie liebt ihre Reflexion absolut.
+Sie kichert und quietscht und gibt sich diese großen, nassen Küssen.
+Wann kommt der Moment, an dem wir unser Aussehen nicht mehr mögen?
+Weil wir es offensichtlich nicht tun.
+10.000 Menschen suchen jeden Monat in Google, "Bin ich hässlich?"
+Das ist Faye. Faye ist 13 und sie lebt in Denver.
+Und wie jeder andere Teenager möchte sie einfach nur gemocht werden und reinpassen.
+Und sie ist ein bisschen durcheinander, obwohl ihre Mutter ihr die ganze Zeit sagt, dass sie ist schön ist, jeden Tag in der Schule sagt ihr jemand, dass sie hässlich ist.
+Aufgrund der Unterschied zwischen dem, was ihre Mutter sagt ihr und was ihre Freunde in der Schule, oder ihre Mitschüler ihr sagen, weiß sie nicht, wem sie glauben soll.
+Einige von ihnen sind so böse, sie denken gar nicht nach.
+Dies ist ein durchschnittliches, gesund aussehendes Teenager-Mädchen, das diese Kommentare in einem der emotional empfindlichsten Zeiten in ihrem Leben bekommt.
+Nun, Teenager von heute sind selten allein.
+Sie sind unter Druck, online und jederzeit verfügbar zu sein, Reden, Nachrichten schicken, Liken, Kommentieren, Teilen, Posten — es endet niemals.
+Nie zuvor waren wir so verbunden, so durchgehend, so unverzüglich, so jung.
+Und wie eine Mutter mir sagte, es ist wie es eine Party in ihrem Schlafzimmer, jede Nacht.
+Es gibt einfach keine Privatsphäre.
+Und die sozialen Zwänge, die damit zusammenhängen, sind unerbittlich.
+Diese immer-on-Umwelt trainiert unsere Kinder, sich selbst basierend auf der Anzahl der Likes, die sie bekommen, zu bewerten, und nach den Arten der Kommentare, die sie erhalten.
+Es gibt keine Trennung zwischen Online- und Offline-Leben.
+Was ist real oder was nicht, es ist wirklich schwer den Unterschied dazwischen zu beziffern.
+Und wo suchen sie nach Inspiration?
+Nun, sehen Sie die Art von Bildern, die heute den Newsfeeds von Mädchen bilden.
+Size Zero-Models dominieren noch immer unsere Laufstege.
+Nägel zu lackieren ist jetzt Routine.
+Und Trends wie #thinspiration, #thighgap, #bikinibridge und #proana.
+Für die, die es nicht wissen, #proana bedeutet pro-Magersucht.
+Diese Trends gehen zusammen mit der Bevorurteilung und schamlosen Objektivierung der Frauen in der heutigen Popkultur.
+Es ist nicht schwer zu sehen, woran Mädchen sich messen.
+Aber Jungen sind gegen dies auch nicht immun.
+ Das Streben nach dem kantigem Gesicht und dem Waschbrettbauch der heldenhaften Sportler und Playboy-Musikstars.
+Aber was ist das Problem mit all dem?
+Gewiss wollen wir, dass unsere Kinder zu gesunden, ausgeglichenen Menschen werden.
+Aber in einer von Bildern besessenen Kultur, erziehen wir unsere Kinder dazu, mehr Zeit und geistige Anstrengung auf ihr Äußeres zu verwenden,auf Kosten von all den anderen Aspekten ihrer Identitäten.
+Also beginnen Dinge wie ihre Beziehungen, die Entwicklung ihrer physischen Fähigkeiten, und ihre Schule und so weiter zu leiden.
+Sechs von zehn Mädchen wollen jetzt nicht etwas tun, weil sie nicht denken, dass sie gut genug sind.
+Dies sind keine trivialen Aktivitäten.
+Es sind grundlegende Aktivitäten in ihrer Entwicklung als Mensch und als Beitragende zur Gesellschaft und zum Arbeitsleben.
+31 Prozent, fast einer von drei Teenagern, ziehen sich aus der Klassenzimmer-Debatte zurück. Sie engagieren sich nicht in der Klassenzimmer-Debatte, weil sie nicht die Aufmerksamkeit auf die Art und Weise lenken möchten, wie sie aussehen.
+Ein er von fünf kommt überhaupt nicht in den Unterricht, wenn er sich nicht gut dabei fühlt.
+Und wenn es um Prüfungen geht, wenn man nicht denkt, dass man gut genug aussieht, speziell wenn man nicht denkt, dass man dünn genug ist, erreicht man eine geringere Durchschnittpunktzahl erzielen als seine Kollegen, die dies nicht kümmert.
+Und das ist überall in Finnland, der USA
+und China vorhanden, und es ist wahr, unabhängig davon, wie viel Sie tatsächlich wiegen.
+Also um ganz deutlich zu werden, wir reden über die Art und Weise, wie Sie denken, wie Sie aussehen, nicht wie Sie tatsächlich aussehen.
+Niedriges Selbstvertrauen im Hinblick auf den Körper untergräbt die akademische Leistung.
+Aber es schädigt auch die Gesundheit.
+Teenager mit niedrigem Selbstvertrauen im Hinblick auf ihren Körper unternehmen weniger körperliche Aktivität, essen weniger Obst und Gemüse, nehmen an mehr ungesunden Praktiken zur Gewichtskontrolle teil, die zu Essstörungen führen können.
+Und wir wachsen daraus nicht heraus.
+Frauen, die denken, dass sie dick sind - und nochmal, ganz gleich, ob sie es sind oder nicht - haben höhere Fehlzeiten.
+Siebzehn Prozent der Frauen kommen nicht zu einem Vorstellungsgespräch, an einem Tag, an dem sie sich nicht gut über ihr Aussehen fühlen.
+Denken Sie darüber nach, was dies für unsere Wirtschaft bedeutet.
+Heute werde ich über die letzten 30 Jahre der architektonischen Geschichte mit Ihnen sprechen.
+Das ist eine Menge in 18 Minuten.
+Es ist ein komplexes Thema, deshalb starten wir direkt an einem komplexen Ort: New Jersey.
+Denn vor 30 Jahren, ich bin aus Jersey, und ich war sechs5, und ich lebte dort im Haus meiner Eltern in einer Stadt namens Livingston, und das war meine Kinderzimmer.
+Rund um die Ecke von meinem Zimmer war das Badezimmer, das ich mit meiner Schwester teilte.
+Und zwischen meinem Schlafzimmer und dem Bad war ein Balkon, der düber das Wohnzimmer blickte.
+Dort hielten sich alle auf und schauten fern, also sah jeder mich immer dann, wenn ich vom Schlafzimmer ins Badezimmer ging. Und immer wenn ich duschte und im Handtuch zurückkam, sahen mich alle.
+Und ich sah so aus.
+Ich war schwierig, unsicher, und ich hasste es.
+Ich hasste diesen Gang, ich hasste den Balkon, ich hasste das Zimmer, und ich hasste das Haus.
+Und das ist Architektur.
+Dieses Gefühl, meine damaligen Emotionen, das ist die Macht der Architektur, denn in der Architektur geht es nicht um Mathematik und Bebauungspläne, es geht um die tiefen, emotionalen Verbindungen, die wir mit Orten haben, an denen wir leben.
+Und es verwundert nicht, dass wir so fühlen, denn laut [der Umweltschutzbehörde] EPA verbringen Amerikaner 90 % ihrer Zeit drinnen.
+Das ist 90 Prozent unserer Zeit, umgeben von Architektur.
+Das ist enorm viel.
+Das bedeutet, dass Architektur uns auf eine Weise formt, die wir noch nicht einmal realisiert haben.
+Das macht uns ein bisschen leichtgläubig und sehr, sehr vorhersehbar.
+Es bedeutet, dass, wenn ich Ihnen ein Gebäude wie dieses zeige, weiß ich, was Sie denken: Sie denken, "Macht" und "Stabilität" und "Demokratie."
+Und ich weiß, dass Sie das denken, weil es auf einem Gebäude basiert, das vor 2500 Jahren von den Griechen erbaut wurde.
+Das ist ein Trick.
+Diesen Auslöser nutzen Architekten, um emotionale Bindungen herzustellen, zu den Formen, aus denen wir unsere Gebäude bauen.
+Es ist ein vorhersehbare emotionale Verbindung, und diesen Trick haben wir eine lange, lange Zeit verwendet.
+Wir haben ihn vor [200] Jahren genutzt, um Banken zu bauen.
+Wir haben ihn im 19. Jahrhundert verwendet, um Kunstmuseen zu bauen.
+Im Amerika des 20. Jahrhunderts verwendeten wir es, um Häuser zu bauen.
+Und schauen Sie sich diese soliden, stabilen, kleinen Soldaten an, mit Blick auf das Meer und die Elemente fernhaltend.
+Das ist wirklich, wirklich nützlich, weil das Bauen von Dingen angsteinflößend ist.
+Es ist teuer, es braucht eine lange Zeit, und es ist sehr kompliziert.
+Und die Menschen, die Dinge bauen -- Entwickler und Regierungen  sie haben natürlich Angst vor der Innovation, und sie nutzen lieber einfach diese Formen, von denen  sie wissen, dass Sie darauf reagieren.
+Das ist, wie wir am Ende mit Gebäude wie diesem dastehen.
+Dies ist ein schönes Gebäude.
+Aber es hat nicht viel damit zu tun, was heute eine Bibliothek tatsächlich tut.
+Im selben Jahr, im Jahr 2004, wurde auf der anderen Seite des Landes eine Bibliothek fertiggestellt, und sie sieht so aus.
+Sie ist in Seattle.
+Diese Bibliothek  dreht sich darum, wie wir Medien in einem digitalen Zeitalter konsumieren.
+Es geht um eine neue Art von Öffentlichkeit für die Stadt, einen Ort zum Versammeln, zum Lesen, zum Teilen.
+Also, wie ist es möglich, dass im selben Jahr, im gleichen Land, zwei Gebäude, beide Bibliotheken genannt, so völlig anders aussehen?
+Architektur beruht auf einer Art "Pendelprinzip".
+Auf der einen Seite ist Innovation, und Architekten sind ständig auf der Suche, auf der Suche nach neuen Technologien, neuen Typologien, neuen Lösungen für die Art, wie wir heute leben.
+Wir alle tragen schwarz, sind sehr deprimiert, werden für liebenswert gehalten, wir sind innerlich tot, weil wir keine Wahl haben.
+Wir müssen auf die andere Seite gehen und diese Symbole wiederverwenden, von denen wir wissen, dass Sie sie lieben.
+Also tun wir das und Sie sind glücklich, wir fühlen uns verkauft und fangen wieder an zu experimentieren, stoßen das Pendel zurück und hin und her, und hin und her haben wir in den letzten 300 Jahre bewegt, und sicherlich in den letzten 30 Jahren.
+Okay, vor 30 Jahren kamen wir aus den 70ern.
+Architekten experimentierten eifrig mit dem sogenannten "Brutalismus".
+Es geht um Beton.
+Kleine Fenster, unmenschlicher Maßstab.
+Das ist wirklich hartes Zeug.
+Als wir uns also den 80ern nähern, beginnen wir damit, diese Symbole neu zu engagieren.
+Wir schwangen das Pendel zurück in die andere Richtung.
+Wir nahmen die Formen, die Sie mögen, und aktualisierten sie.
+Wir fügen Neon und Pastell hinzu und verwenden neue Materialien.
+Und Sie lieben es.
+Und wir können nicht genug davon geben.
+Wir nehmen Chippendalemöbel und verwandelten diese in Wolkenkratzer und Wolkenkratzer können mittelalterliche Burgen aus Glas sein.
+Formen wurden groß, Formen wurden mutig und bunt.
+Zwerge wurden Säulen.
+Es war verrückt.
+Aber es sind die 80-er, es ist cool.
+Das ist das Ding mit der Postmoderne.
+Das ist das Ding mit Symbolen.
+Sie waren einfach und billig, denn statt Orte zu schaffen, erschufen wir Erinnerungen an Orte.
+Denn ich weiß, und ich weiß, dass Sie alle es wissen, das hier ist nicht die Toskana.
+Das ist Ohio.
+In den späten 80er und frühen 90er Jahren begannen wir mit etwas namens Dekonstruktivismus zu experimentieren.
+Wir werfen historische Symbole raus, wir setzen auf neue, computergestützte Designtechniken, und wir denken uns neue Kompositionen aus, Formen die in Formen prallen.
+Das ist akademisches und abgehobenes Zeug, es ist super unbeliebt, entzieht sich Ihnen völlig.
+Normalerweise würde das Pendel einfach zurück in die andere Richtung schwingen.
+Und dann passierte etwas Erstaunliches.
+Im Jahr 1997 öffnete dieses Gebäude.
+Das ist das Guggenheim Bilbao, von Frank Gehry.
+Dieses Gebäude veränderte die Beziehung der Welt zur Architektur grundlegend.
+Paul Goldberger sagte, dass Bilbao einer dieser seltenen Momente war, wenn Kritiker, Wissenschaftler, und die Öffentlichkeit komplett mit einem Gebäude eins waren.
+Die New York Times nannte dieses Gebäude ein Wunder.
+Nach der Fertigstellung dieses Gebäudes steigerte sich der Tourismus in Bilbao um 2.500 Prozent.
+Er ist unsere allererstes Starchitect.
+Wie ist es möglich, dass diese Formen -- sie sind wild und radikal -- auf der ganzen Welt so allgegenwärtig geworden sind?
+Und es geschah, weil Medien so erfolgreich fasziniert von ihnen waren, dass sie uns schnell lehrten, dass diese Formen Kultur und Tourismus bedeuten.
+Wir schufen eine emotionale Reaktion auf diese Formen.
+Ebenso bei Bürgermeistern weltweit.
+Also wusste jeder Bürgermeister, dass, wenn sie diese Formen hatten, sie Kultur und Tourismus hatten.
+Dieses Phänomen passierte zu Beginn des neuen Jahrtausends ein paar anderen Starchitekten.
+Denn denken Sie darüber nach, wie Sie Architektur konsumieren.
+Vor tausend Jahren, hätten Sie in das Dorf nebenan gehen müssen, um ein Gebäude zu sehen.
+Die Beförderung beschleunigte sich: Man nimmt ein Boot, ein Flugzeug, man reist als Tourist.
+Technologie beschleunigt: Sie können sehen, wie es in einer Zeitung steht, im Fernsehen, bis wir schließlich sind alle architektonische Fotografen sind, und das Gebäude körperlos von der Seite geworden ist.
+Architektur ist jetzt überall und das bedeutet, dass die Geschwindigkeit der Kommunikation endlich die Geschwindigkeit der Architektur erreicht hat.

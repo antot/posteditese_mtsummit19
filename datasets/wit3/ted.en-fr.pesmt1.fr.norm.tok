@@ -1,0 +1,600 @@
+L&apos; intelligence -- qu&apos; est-ce que c&apos; est ?
+Si nous examinons l&apos; histoire de la façon dont l&apos; intelligence est vue , nous pouvons citer comme exemple précurseur Edsger Dijkstra qui a déclaré que : &quot; la question de savoir si une machine peut penser est aussi intéressante que celle de savoir si un sous-marin peut nager . &quot;
+Cependant , lorsque Edsger Dijkstra a écrit cette phrase , son intention était de critiquer les premiers pionniers de l&apos; informatique comme Alan Turing .
+Cependant , si vous jetez un coup d &quot; œil en arrière et réfléchissez aux innovations les plus émancipantes qui nous ont permis de construire des machines artificielles qui nagent et des machines artificielle qui &#91; volent &#93; , vous trouvez que c&apos; est seulement grâce à la compréhension des mécanismes physiques sous-jacents de la natation et du vol que nous avons été en mesure de construire ces machines .
+Et donc , il y a plusieurs années , j&apos; ai entrepris un programme afin d&apos; essayer de comprendre les mécanismes physiques fondamentaux de l&apos; intelligence .
+Prenons un peu de recul .
+On va d&apos; abord commencer par une expérience de pensée .
+Imaginez que vous appartenez à une race d&apos; extraterrestre qui ne sait rien sur la biologie terrestre ou de la neuroscience terrestre ou de l&apos; intelligence terrestre , mais vous avez d&apos; incroyables télescopes et vous êtes en mesure de regarder la Terre , et vous avez une vie incroyablement longue , donc vous êtes en mesure de regarder la Terre pendant des millions , voire des milliards d&apos; années .
+Et vous observez vraiment un effet bizarre .
+Vous observez que , au cours des millénaires , la Terre est sans cesse bombardée d&apos; astéroïdes jusqu&apos; à un certain point , et ce à un moment donné , ce qui correspond à peu près à notre année , 2000 ap . JC , les astéroïdes qui sont sur une trajectoire de collision avec la Terre qui , autrement , se seraient percutés mystérieusement , auraient dévié ou explosé avant de pouvoir frapper la Terre .
+Maintenant bien sûr , en tant qu&apos; humains , nous savons que la raison est que nous essayons de nous sauver .
+On essaye d&apos; empêcher un impact .
+Mais si vous êtes un extraterrestre qui ne sait pas tout ça , qui n&apos; a pas de concept de l&apos; intelligence de la Terre , vous seriez obligé de rassembler une théorie physique qui expliquerait comment , jusqu &apos; à un certain point dans le temps , des astéroïdes qui pouvaient détruire la surface d&apos; une planète arrêtent mystérieusement de le faire .
+Et donc selon moi cette question est identique à celle qui se pose pour comprendre la nature physique de l&apos; intelligence .
+Donc dans ce programme que j&apos; ai entrepris il y a plusieurs années , j&apos; ai regardé une variété de différents fils à travers la science , à travers une variété de disciplines , qui pointaient , à mon avis , vers un seul mécanisme sous-jacent de l&apos; intelligence .
+Et donc , ces différentes notions , en les prenant et en les mettant ensemble , je me suis demandé , il y a plusieurs années , y a-t-il un mécanisme sous-jacent pour l&apos; intelligence que nous pouvons exclure de ces différentes notions ?
+Y a-t-il une seule équation pour l&apos; intelligence ?
+Et la réponse est , je crois , oui . &#91; &quot; F = T ∇ Sτ &quot; &#93; Ce que vous voyez est sans doute le plus proche équivalent de E = mc ² pour l&apos; intelligence que j&apos; ai vu .
+Donc ce que vous voyez ici est une déclaration de correspondance où l&apos; intelligence est une force , F , qui agit de manière à maximiser une liberté d&apos; action futur .
+Elle agit de manière à maximiser la liberté d&apos; action futur , ou à garder des options ouvertes , avec de la force T , avec la diversité des futurs possible accessible , S , jusqu&apos; à un certain horizon dans un temps futur , tau .
+En bref , l&apos; intelligence n&apos; aime pas être piégée .
+L&apos; intelligence tente de maximiser l&apos; autonomie de l&apos; action future et de garder les options ouvertes .
+Et donc , compte tenu de cette équation , c&apos; est naturel de demander , donc que pouvez-vous faire avec ça ?
+À quel point est-elle prévisible ?
+Est-ce que ça prédit l&apos; intelligence au niveau humain ?
+Prédit-elle l&apos; intelligence artificielle ?
+Je vais maintenant vous montrer une vidéo qui va , je pense , démontrer certaines des applications incroyables de cette simple équation .
+Mais que se passe-t-il si ce lien cosmologique potentiel entre l&apos; entropie et l&apos; intelligence fait allusion à une relation plus profonde ?
+Et si un comportement intelligent ne se contente pas de corrélation avec la production d&apos; entropie à long terme , mais en réalité émerge directement à partir de ça ?
+Pour le savoir , nous avons développé un moteur logiciel appelé Entropica , conçu pour maximiser la production d&apos; entropie à long terme de n&apos; importe quel système dans lequel elle se trouve .
+À notre grande surprise , Entropica a pu passer plusieurs tests d&apos; intelligence animale , jouer à des jeux conçus pour les humains , et même gagner de l&apos; argent en négociant des valeur mobilières , sans avoir reçu l&apos; ordre de le faire .
+Voici quelques exemples de Entropica en action .
+Tout comme un humain debout sans tomber , ici on voit Entropica automatiquement équilibrer un poteau à l&apos; aide d&apos; un chariot .
+Je pense que nous avons tous des placards .
+Votre squelette peut être de dire à quelqu&apos; un qu&apos; on l&apos; aime pour la première fois , ou de dire à quelqu&apos; un que vous êtes enceinte , ou de dire à quelqu&apos; un que vous avez un cancer , ou toute autre conversation compliquée que nous avons tout au long de notre vie .
+Un placard entier est une conversation difficile , et bien que nos sujets puissent varier énormément , l&apos; expérience d&apos; être dans un placard et d&apos; en sortir est universelle .
+C&apos; est effrayant , et on déteste ça , mais on doit le faire .
+Il y a quelques années , je travaillais au South Side Walnut Cafe , un restaurant en ville , et lorsque j&apos; étais là-bas je suis passée par des phases intenses de militante lesbienne : je ne me rasais pas les aisselles , je citais les paroles de gospel d&apos; Ani DiFranco .
+Et selon la largeur de mon short et si j&apos; avais récemment rasé ma tête , la question m&apos; était souvent posée , habituellement par un enfant : &quot; Hum , tu es un garçon ou une fille ? &quot;
+Ce qui provoquait un silence gênant à la table .
+Je serrerais ma mâchoire un peu plus , tiendrais ma cafetière avec un peu plus de vengeance .
+Le père secouait maladroitement son journal et la mère jetait un regard glacial à son enfant .
+Mais je dirais rien , et je bouillirais à l&apos; intérieur .
+Donc je me suis promis que la prochaine fois , je dirais quelque chose .
+J&apos; aurais cette conversation difficile .
+Donc en l&apos; espace de quelques semaines , ça s&apos; est reproduit .
+&quot; Tu es un garçon ou une fille ? &quot;
+J&apos; ai mes citations de Gloria Steinem .
+J&apos; ai même ce petit extrait des &quot; Monologues du Vagin &quot; que je vais faire .
+Donc je prends une profonde respiration et je baisse les yeux et en face de moi , c&apos; est une petite fille de quatre ans dans une robe rose , pas un défi pour un duel féministe , juste une gamine avec une question : &quot; Tu es un garçon ou une fille ? &quot;
+Donc je prends une autre profonde inspiration , m&apos; assieds à côté d&apos; elle , et je dis : &quot; Hé , je sais que c&apos; est un peu déroutant .
+Mes cheveux sont courts comme un garçon , et je porte des vêtements de garçon , mais je suis une fille , et tu sais parfois tu aimes porter une robe rose et parfois tu aimes porter un pyjama confortable ?
+Eh bien , je suis plutôt le genre de fille qui aime les pyjamas confortables . &quot;
+Et cette gamine me regarde dans les yeux , sans perdre un instant , et dit : &quot; Mon pyjama préféré est violet avec des poissons .
+Est-ce que je peux avoir un pancake , s&apos; il te plaît ? &quot;
+Et ce pancake ? &quot;
+C&apos; était la conversation difficile la plus facile que j&apos; ai jamais eue .
+Et pourquoi ? Parce que la fille du Pancake et moi , nous étions toutes deux sincères l&apos; une avec l&apos; autre .
+Donc , comme beaucoup d&apos; entre nous , j&apos; ai vécu dans quelques placards dans ma vie et oui , le plus souvent , mes murs s&apos; avéraient être arc-en-ciel .
+Mais lorsque l&apos; on est à l&apos; intérieur dans le noir , on ne peut pas voir la couleur des murs .
+Tu savez juste ce que ça fait de vivre dans un placard .
+Donc vraiment , mon placard n&apos; est pas différent du votre ou du votre ou du votre .
+Bien sûr , je pourrais vous donner 100 raisons pour lesquelles sortir du placard a été plus difficile pour moi que pour vous , oui mais voilà : la difficulté n&apos; est pas relative .
+Difficile c&apos; est difficile .
+Qui peut me dire que d&apos; expliquer à quelqu&apos; un que vous venez de déclarer faillite , c&apos; est plus dur que de dire à quelqu&apos; un que vous venez de le tromper ?
+Qui peut me dire que faire son coming out est plus difficile que de dire à son enfant de cinq ans que l&apos; on va divorcer ?
+Il n&apos; y a pas de plus difficile , il y a juste difficile .
+Nous devons arrêter de classer notre difficulté par rapport à la difficulté des autres pour nous faire sentir mieux ou pire au sujet de nos placards et juste compatir sur le fait que c&apos; est difficile pour tout le monde .
+À un certain moment dans nos vies , nous vivons tous dans des placards , et ils peuvent paraître sûrs , ou du moins plus sûrs que ce qui se trouve de l&apos; autre côté de cette porte .
+Mais je suis ici pour vous dire , peu importe ce qui constitue vos murs , un placard n&apos; est pas un endroit où une personne peut vivre .
+Moi , j&apos; avais une queue de cheval , une robe sans bretelles , et des chaussures à talons hauts .
+Je n&apos; étais pas une militante lesbienne prête à affronter les fillettes de quatre ans qui entraient dans le café .
+J&apos; étais paralysée par la peur , recroquevillée dans un coin de mon placard noir serrant ma grenade gay , et bouger un seul muscle est la chose la plus effrayante que j&apos; aie jamais faite .
+Ma famille , mes amis , de parfaits étrangers -- j&apos; avais passé toute ma vie à essayer de ne pas décevoir ces gens , et maintenant je mettais exprès le monde sens dessus dessous .
+J&apos; ai eu une opération du cerveau il y a 18 ans et depuis cette époque , la science du cerveau est devenue une de mes passions personnelles .
+En fait , je suis ingénieur .
+Donc ceci dit , il y a un stigmate quand on a une opération du cerveau .
+Êtes-vous toujours intelligent ou non ?
+Et si non , vous pouvez vous rendre à nouveau intelligent ?
+Immédiatement après mon opération , j&apos; ai dû décider quelles quantités de chacun de plus d&apos; une douzaine de puissants produits chimiques je devais prendre chaque jour , parce que si je ne prenais rien , j&apos; allais mourir en quelques heures .
+Quelquefois , il s&apos; en est fallu de peu .
+Mais heureusement , je suis un expérimentateur dans l&apos; âme , et j&apos; ai décidé d&apos; expérimenter pour essayer de trouver plus des posologies plus optimales , car il n&apos; y a pas vraiment de feuille de route claire sur ceci qui soit détaillée .
+J&apos; ai commencé à essayer différents mélanges et j&apos; ai été époustouflée par la façon dont les changements de dosages ont considérablement changé ma perception de moi-même , ma perception de qui j&apos; étais , ma façon de penser , mon comportement envers les gens .
+Un cas particulièrement impressionnant : pendant quelques mois j&apos; ai essayé des dosages et produits chimiques typiques d&apos; un homme dans la vingtaine et j&apos; ai été époustouflée par la façon dont mes pensées ont changé .
+J&apos; étais un peu excessif .
+Mais j&apos; étais vraiment surpris car je n&apos; essayais pas d&apos; être arrogant .
+J&apos; essayais vraiment , avec un manque d&apos; assurance , de régler un problème auquel j&apos; étais confronté , et mais les choses ne se sont pas passées de cette façon .
+Mais cette expérience , je pense , m&apos; a donné une nouvelle appréciation pour les hommes et ce qu&apos; ils pourraient traverser , et j&apos; ai eu une meilleure relation avec des hommes depuis .
+Ce que j&apos; essayais de faire en ajustant ces hormones et ces neurotransmetteurs et ainsi de suite , c&apos; était de retrouver mon intelligence après ma maladie et l&apos; opération , ma pensée créative , mes idées .
+Et je pense principalement en images , et donc pour moi c&apos; est devenu une clé métrique -- comment obtenir ces images mentales que j&apos; utilise comme un moyen de prototypage rapide , si vous voulez , mes idées , essayant des nouvelles idées par taille , jouant des scénarios .
+Ce genre de pensée n&apos; est pas nouveau .
+Des philosophes comme Hume , Descartes et Hobbes voyaient les choses de la même façon .
+Ils pensaient que les images et les idées mentales étaient en fait la même chose .
+Certaines personnes aujourd&apos; hui remettent en cause cette idée , et nombreux sont ceux qui débattent sur la façon dont l&apos; esprit fonctionne , mais pour moi , c&apos; est simple : les images mentales , pour la plupart d&apos; entre nous , sont essentielles pour générer des pensées créatives et inventives .
+Donc après plusieurs années , je me suis conditionné et j&apos; ai eu plein d&apos; images mentales superbes et très vives , qui étaient très élaborées et possédaient un support analytique .
+Et donc maintenant je travaille sur , comment puis-je faire passer ces images mentales de mon esprit à l&apos; écran de mon ordinateur plus vite ?
+Vous imaginez , si vous voulez , un réalisateur de film être en mesure d&apos; utiliser son imagination seule pour diriger le monde en face de lui ?
+Ou un musicien sortant la musique de sa tête ?
+On pourrait utiliser cette faculté de multiples façons , elle pourrait être par exemple un moyen pour les gens créatifs de partager leur création à la vitesse de la lumière .
+Donc laissez-moi vous montrer pourquoi je pense qu&apos; on est assez près d&apos; y arriver en partageant avec vous deux expériences récentes de deux éminents groupes de neurosciences .
+Les deux ont utilisé la technologie IRMf -- technologie d&apos; imagerie par résonance magnétique fonctionnelle -- pour montrer le cerveau , et là , c&apos; est un scanner cérébral de Giorgio Ganis et ses collègues de Harvard .
+Et la colonne de gauche montre le scanner du cerveau d&apos; une personne regardant une image .
+La colonne du milieu indique le scanner du cerveau de ce même individu imaginant , voyant cette même image .
+Et la colonne de droite a été créée en soustrayant la colonne du milieu de la colonne de gauche , et elle montre que la différence est proche de zéro .
+Cette expérience a été réalisée sur de nombreuses personnes différentes grâce à de nombreuse images différentes , et le résultat a été sensiblement le même .
+La différence entre voir une image et imaginer voir cette même image est presque inexistante .
+Ensuite , permettez-moi de partager avec vous une autre expérience , celle du labo de Jack Gallant à Cal Berkeley .
+Dans cette expérience , on a montré à des individus des centaines d&apos; heures de vidéos YouTube pendant que des scanners étaient faits de leurs cerveaux pour créer une grande bibliothèque de leur cerveau réagissant à des séquences vidéo .
+Dans de nombreuses sociétés patriarcales et tribales , les pères sont généralement connus par rapport leurs fils , mais je suis l&apos; un des rares pères qui sont connus par rapport à leur fille , et j&apos; en suis fier .
+Avant ça , elle était ma fille , mais maintenant , je suis son père .
+Mesdames et messieurs , si nous examinons l&apos; histoire de l&apos; humanité , l&apos; histoire des femmes est l&apos; histoire de l&apos; injustice , l&apos; inégalité , la violence et l&apos; exploitation .
+Elle n&apos; est bien accueillie ni par son père ni par sa mère .
+Tous les gens du quartier affluent et compatissent avec la mère , et personne ne félicite le père .
+Et une mère est très mal à l&apos; aise si elle met au monde une fille .
+Lorsqu&apos; elle donne naissance à sa première fille enfant , première fille , elle est triste .
+Lorsqu&apos; elle donne naissance à la deuxième fille , elle est choquée , et dans l&apos; attente d&apos; un fils , quand elle donne naissance à une troisième fille , elle se sent coupable comme un criminel .
+Non seulement la mère souffre , mais la fille , la fille nouveau-né , quand elle vieillit , elle souffre aussi .
+À l&apos; âge de cinq ans , alors qu&apos; elle devrait aller à l&apos; école , elle reste à la maison et ses frères sont admis dans une école .
+Jusqu&apos; à l&apos; âge de 12 ans , d&apos; une certaine façon , elle a de bonnes conditions de vie .
+Elle peut s&apos; amuser .
+Elle peut jouer avec ses amis dans la rue , et elle peut se déplacer dans les rues comme un papillon .
+Mais quand elle entre dans l&apos; adolescence , quand elle a 13 ans , elle n&apos; a pas le droit de sortir de chez elle sans une escorte masculine .
+Elle est confinée entre les quatre murs de sa maison .
+Elle n&apos; est plus une personne libre .
+Elle devient le soi-disant honneur de son père et de ses frères et de sa famille et si elle transgresse le code de ce soi-disant honneur , elle pourrait même être tuée .
+Et c&apos; est aussi intéressant que ce soi-disant code d&apos; honneur n&apos; affecte pas uniquement la vie d&apos; une fille , il affecte aussi la vie des hommes de la famille .
+Je connais une famille de sept sœurs et un frère , et ce frère , il est parti dans les pays du Golfe , pour gagner de l&apos; argent pour ses sept sœurs et ses parents , parce qu&apos; il croit que ce sera humiliant si ses sept sœurs apprennent un métier et sortent de la maison et gagnent des revenus .
+Donc ce frère , il sacrifice les joies de sa vie et le bonheur de ses sœurs sur l&apos; autel du prétendu honneur .
+De plus il existe une règle supplémentaire dans les sociétés patriarcales qui s&apos; appelle l&apos; obéissance .
+Une bonne fille est censée être très calme , très humble et très docile .
+Il s&apos; agit des critères .
+Une bonne fille modèle devrait être très calme .
+Elle est censée être silencieuse et elle est censée accepter les décisions de son père et de sa mère et les décisions des aînés , même si elle ne les aime pas .
+Sinon , elle sera appelée désobéissante .
+Et que se passe-t-il à la fin ?
+Pour reprendre les mots d&apos; une poétesse , elle est attachée , couchée , puis elle donne naissance à d&apos; autres fils et filles .
+Et ce cercle vicieux continue , continue .
+Mesdames et messieurs , cette situation désespérée de millions de femmes pourrait être changée si nous pensions différemment , si les femmes et les hommes pensaient différemment , si les hommes et les femmes dans les sociétés tribales et patriarcales dans les pays en développement pouvaient briser quelques normes de la famille et de la société , s&apos; ils pouvaient abolir les lois discriminatoires des systèmes dans leurs États , qui vont à l&apos; encontre des droits fondamentaux des femmes .
+Chers frères et sœurs , quand Malala est née , et pour la première fois , croyez-moi , je n&apos; aime pas les nouveau-nés , pour être honnête , mais quand je suis allé la voir et que j&apos; ai regardé dans ses yeux , croyez-moi , j&apos; étais très honoré .
+Et bien avant sa naissance , j&apos; ai pensé à son nom , et j&apos; ai été fascinée par un héros légendaire combattant de la liberté en Afghanistan .
+Elle s&apos; appelait Malalai de Maiwand , et j&apos; ai donné son nom à ma fille .
+Quelques jours après la naissance de Malala , la naissance de ma fille , mon cousin est venu -- et c&apos; était une coïncidence -- il est venu à ma maison et il a apporté un arbre généalogique , un arbre généalogique de la famille Yousafzai , et quand j&apos; ai regardé l&apos; arbre généalogique , il montrait 300 ans de lignée ancestrale .
+Mais quand j&apos; ai regardé , tous étaient des hommes , et j&apos; ai pris mon stylo , j&apos; ai tracé une ligne sous mon nom et j&apos; ai écrit : &quot; Malala . &quot;
+Et quand elle a grandi , quand elle avait quatre ans et demi , je l&apos; ai inscrite dans mon école .
+Vous vous demandez , si dois-je mentionner le fait que j&apos; ai inscrit une fille à l&apos; école ?
+Oui , je dois le mentionner .
+C&apos; est peut être tenu pour acquis au Canada , en Amérique , dans de nombreux pays développés , mais dans les pays pauvres , dans les sociétés patriarcales , dans les sociétés tribales , c&apos; est un grand événement dans la vie de fille .
+L&apos; inscription dans une école signifie la reconnaissance de son identité et de son nom .
+L&apos; admission dans une école signifie qu&apos; elle est entrée dans le monde des rêves et des aspirations où elle pourra explorer son potentiel pour sa vie future .
+J&apos; ai cinq soeurs et aucune d&apos; elles ne pouvait aller à l&apos; école , et vous serez étonné , il y a deux semaines , quand j&apos; étais en train de remplir le formulaire de visa canadien , et que je remplissais la partie sur la famille du formulaire , je ne pouvais pas me rappeler des noms de certaines de mes soeurs .
+Le monde fait de vous quelque chose que vous n&apos; êtes pas , mais vous savez à l&apos; intérieur ce que vous êtes , et cette question brûle dans votre cœur : Comment allez-vous devenir ça ?
+Je suis peut-être l&apos; unique personne à penser de cette façon , mais je ne suis pas seul , pas seul du tout .
+Donc lorsque je suis devenue mannequin , j&apos; ai senti que j&apos; avais finalement réalisé le rêve que j&apos; avais toujours voulu depuis mon enfance .
+Mon moi extérieur correspondait finalement à ma vérité intérieure , à mon moi intérieur .
+Pour des raisons compliquées dont je parlerai plus tard , quand je regarde cette photo , à cette époque , j&apos; avais l&apos; impression que , Geena , tu l&apos; as fait , tu as réussi , tu y es arrivée .
+Mais en octobre dernier , j&apos; ai réalisé que je ne fais que commencer .
+Nous sommes tous mis dans des boîtes par notre famille , par notre religion , par notre société , notre moment dans l&apos; histoire , même nos propres corps .
+Certaines personnes ont le courage de se libérer , de ne pas accepter les limitations imposées par la couleur de leur peau ou par les croyances de ceux qui les entourent .
+Ces gens sont toujours la menace pour le statu quo , pour ce qui est considéré comme acceptable .
+Dans mon cas , depuis neuf ans , certains de mes voisins , certains de mes amis , collègues , même mon agent , ne connaissaient pas mon histoire .
+Je me souviens quand j&apos; avais cinq ans aux Philippines je me promenais dans la maison , je portais toujours ce t-shirt sur ma tête .
+Et ma mère m&apos; a demandé : &quot; Pourquoi portes-tu toujours ce T-shirt sur ta tête ? &quot;
+Je répondais : &quot; Maman , c&apos; est mes cheveux . Je suis une fille . &quot;
+J&apos; ai alors su comment m&apos; auto-identifier .
+Le sexe a toujours été considéré comme un fait , immuable , mais nous savons maintenant que c&apos; est en fait plus fluide , complexe et mystérieux .
+A cause de mon succès , je n&apos; ai jamais eu le courage de partager mon histoire , non pas parce que je pensais que ce que j&apos; étais était mal , mais à cause de la manière dont le monde traite ceux d&apos; entre nous qui souhaitent se libérer .
+Chaque jour , je suis si reconnaissante parce que je suis une femme .
+J&apos; ai une mère et un père et une famille qui m&apos; accepte pour ce que je suis .
+Beaucoup n&apos; ont pas autant de chance .
+Il y a une longue tradition dans la culture asiatique qui célèbre le mystère fluide du sexe .
+Il y a une déesse bouddhiste de la compassion .
+Il y a une déesse hindoue , une déesse hijra .
+Donc quand j&apos; avais huit ans , j&apos; étais à une fête aux Philippines célébrant ces mystères .
+J&apos; étais en face de la scène et je me souviens , il en sort cette belle femme juste en face de moi et je me souviens qu&apos; à ce moment quelque chose m&apos; a frappée : C&apos; est le genre de femme que j&apos; aimerais être .
+Donc quand j&apos; avais 15 ans , toujours habillé comme un garçon , j&apos; ai rencontré cette femme nommée T.L.
+Elle est une organisatrice de concours de beauté transgenre .
+Cette nuit-là , elle m&apos; a demandé : &quot; Comment se fait-il que tu ne rejoins pas le concours de beauté ? &quot;
+Ce moment a changé ma vie .
+Tout d&apos; un coup , j&apos; ai été présentée au monde des concours de beauté .
+Peu de gens peuvent dire que leur premier emploi est d&apos; être reine de beauté pour les femmes transgenres , mais je le prends .
+Donc de 15 à 17 ans , je suis passé du concours le plus prestigieux au concours où littéralement tout se passe à l&apos; arrière d&apos; un camion , parfois il s&apos; agissait même d&apos; un trottoir à côté d&apos; une rizière , et quand il pleuvait , il pleut beaucoup aux Philippines , les organisateurs devait tout déplacer à l&apos; intérieur de la maison de quelqu&apos; un .
+J&apos; ai aussi connu la bonté des inconnus , surtout quand nous voyagions dans les provinces éloignées des Philippines .
+Mais le plus important , j&apos; ai rencontré certains de mes meilleurs amis dans cette communauté .
+En 2001 , ma mère , qui avait déménagé à San Francisco , m&apos; a appelée et m&apos; a dit que ma demande de carte verte était acceptée , que je pouvais maintenant déménager aux États-Unis .
+J&apos; ai résisté .
+J&apos; ai dit à ma mère , &quot; Maman , je m&apos; amuse .
+Je suis ici avec mes amis , j&apos; aime voyager , être une reine de concours de beauté . &quot;
+Mais deux semaines plus tard , elle m&apos; a appelé pour me dire : &quot; Sais-tu que si tu viens aux États-Unis , tu pourras changer de nom et d&apos; indicateur de sexe ? &quot;
+J&apos; ai pris récemment ma retraite de la California Highway Patrol après 23 ans de service .
+Pendant ces 23 années , j&apos; ai passé la majeure partie de mon temps à patrouiller dans l&apos; extrême sud du comté de Marin , où se trouve le Golden Gate Bridge .
+Le pont est une structure emblématique , connu dans le monde entier pour ses belles vues de San Francisco , l&apos; océan Pacifique , et son architecture inspirante .
+Malheureusement , c&apos; est aussi un aimant pour le suicide , étant l&apos; un des sites les plus utilisés dans le monde entier .
+Le Golden Gate Bridge a ouvert en 1937 .
+Joseph Strauss , ingénieur en chef responsable de la construction du pont , aurait dit : &quot; Il est pratiquement impossible de se suicider depuis le pont .
+Se suicider depuis le pont n&apos; est ni pratique ni probable . &quot;
+Mais depuis son ouverture , plus de 1.600 personnes ont sauté vers leur mort de ce pont .
+Certains croient que voyager entre les deux tours vous mènera à une autre dimension -- ce pont a été romancé comme tel - que la chute vous libère de toutes vos inquiétudes et du chagrin , et les eaux en-dessous vont purifier votre âme .
+Mais laissez-moi vous dire ce qui se passe exactement lorsque le pont est utilisé pour se suicider .
+L&apos; impact brise les os , puis certains perforeront les organes vitaux .
+La plupart des gens meurent sur le coup .
+Ceux qui généralement ne se débattent pas dans l&apos; eau , impuissants , et ensuite se noient .
+Je ne pense pas que ceux qui envisagent cette méthode de suicide réalisent à quel point la mort qu&apos; ils vont affronter sera atroce .
+Voici le cordage .
+Sauf autour deux tours , il y a 32 cm d&apos; acier parallèles au pont .
+C&apos; est là où la plupart des gens se tiennent avant de se suicider .
+Je peux vous dire par expérience qu&apos; une fois que la personne est sur ce parapet , et qu&apos; elle traverse ses moments les plus sombres temps , il est très difficile de la ramener .
+J&apos; ai pris cette photo l&apos; an dernier alors que cette jeune femme parlait à un officier et considérait sa vie .
+Je tiens à vous dire avec beaucoup de joie que nous avons réussi ce jour-là à la refaire passer au-dessus du rail .
+Quand j&apos; ai commencé à travailler sur le pont , nous n&apos; avions aucune formation structurée .
+On luttait pour trouver le bon moyen de gérer ces appels .
+Ça ne constituait pas seulement un problème pour ceux qui envisageaient le suicide , mais aussi pour les officiers .
+Nous avons parcouru un long , long chemin depuis .
+Maintenant , des officiers vétérans et des psychologues forment de nouveaux officiers .
+C&apos; est Jason Garber .
+J&apos; ai rencontré Jason le 22 juillet de l&apos; année dernière quand j&apos; ai reçu un appel d&apos; un possible sujet suicidaire assis sur le cordon à peu près à mi-portée .
+J&apos; ai répondu , et quand je suis arrivé , j&apos; ai observé Jason qui parlait à un officier du Golden Gate Bridge .
+Jason n&apos; avait que 32 ans et avait pris l&apos; avion jusqu&apos; ici depuis le New Jersey .
+Après avoir parlé environ une heure avec Jason , il nous a demandé si nous connaissions l&apos; histoire de la boîte de Pandore .
+Petit rappel de mythologie grecque : Zeus a créé Pandore et l&apos; a envoyée sur la Terre avec une boîte , et lui a dit : &quot; N&apos; ouvre jamais , au grand jamais , cette boîte . &quot;
+Eh bien , un jour , la curiosité a eu raison de Pandore et elle a ouvert la boîte .
+Et de cette boîte sortirent tous les fléaux , les chagrins et toutes sortes de maux contre les hommes .
+La seule bonne chose dans la boîte était l&apos; espoir .
+Jason nous a ensuite demandé : &quot; Que se passe-t-il lorsque vous ouvrez la boite et que vous n&apos; y trouvez pas l&apos; espoir ? &quot;
+Il fit une pause quelques instants , s&apos; est penché vers la droite et il nous a quittés .
+Ce jeune homme gentil , intelligent du New Jersey venait de se suicider .
+J&apos; ai parlé aux parents de Jason ce soir-là et je suppose que , lorsque je leurs parlais je n&apos; avais pas l&apos; air d&apos; aller très bien parce que le lendemain le rabbin de la famille a appelé pour vérifier comment j&apos; allais .
+Les parents de Jason lui avaient demandé de le faire .
+Les dommages collatéraux du suicide affectent beaucoup de gens .
+Je vous pose ces questions : Que feriez-vous si un membre de votre famille , un ami ou un être cher était suicidaire ?
+Qu&apos; est-ce que vous dites ?
+Sauriez-vous quoi dire ?
+D&apos; après mon expérience , vous ne faites pas que parler , mais vous écoutez .
+L&apos; écoute pour comprendre .
+Ne discutez pas , ne blâmez pas , ou ne dites pas à la personne que vous savez ce qu&apos; ils ressentent , parce que vous ne le savez probablement pas .
+Uniquement grâce à votre présence , vous pouvez être la personne qui peut susciter un sursaut salutaire chez elle .
+Si vous pensez que quelqu&apos; un est suicidaire , n&apos; ayez pas peur de les confronter et de poser la question .
+Une façon de leur poser la question est : &quot; D&apos; autres dans des circonstances semblables ont pensé à mettre fin à leur vie , y as-tu déjà pensé ? &quot;
+Faire face à la personne peut lui sauver la vie et être un point tournant pour eux .
+Il y a d&apos; autres signes auxquels vous devez prêter attention : le désespoir , le fait de croire que la situation est désespérée et qu&apos; elle ne s&apos; améliorera pas ; l&apos; impuissance , le fait de croire que personne n&apos; y peut rien ; un isolement social récent ; et la perte du goût de vivre .
+J&apos; ai trouvé cette discussion juste il y a quelques jours , et j&apos; ai reçu un courriel d&apos; une dame dont j&apos; aimerais vous lire la lettre .
+Elle a perdu son fils le 19 janvier de cette année et elle m&apos; a écrit ce mail il y a quelques jours seulement , et c&apos; est avec sa permission et sa bénédiction que je vous lis cela .
+&quot; Salut , Kevin . J&apos; imagine que vous êtes à la conférence TED .
+Ça doit être une véritable expérience d&apos; être là-bas .
+Je pense que je devrais aller marcher sur le pont ce week-end .
+Je voulais vous écrire un mot .
+J&apos; espère que vous passerez le message à beaucoup de gens et qu&apos; ils rentreront chez eux pour en parler à leurs amis qui le répéteront à leurs amis , etc.
+Je suis encore assez anéantie , mais je commence à réaliser que Mike ne rentrera pas .
+Mike conduisait de Petaluma à San Francisco pour regarder le match des 49ers avec son père le 19 janvier .
+Qu&apos; est-ce que la réalité augmentée et le football professionnel a à voir avec l&apos; empathie ?
+Et quelle est la vélocité aérienne d&apos; une hirondelle égarée ?
+Maintenant , malheureusement , je ne répondrais qu&apos; à une de ces questions aujourd&apos; hui , donc s&apos; il vous plaît , essayez de contenir votre déception .
+Quand la plupart des gens pensent à la réalité augmentée , ils pensent à &quot; Minority Report &quot; et Tom Cruise agitant ses mains en l&apos; air , mais la réalité augmentée n&apos; est pas de la science-fiction .
+La réalité augmentée est une technologie qui deviendra réelle de notre vivant parce que nous avons les outils pour faire en sorte que cela se produise , et les gens doivent en être informés , parce que la réalité augmentée changera nos vies tout autant qu&apos; internet et le téléphone portable .
+Maintenant parvenons-nous à la réalité augmentée ?
+Les Google Glass que je porte actuellement constituent la première étape du processus .
+Je suis sûr que beaucoup d&apos; entre vous connaissent les Google Glass .
+Ce que vous ne savez peut-être pas c&apos; est que Google Glass est un appareil qui vous permettra de voir ce que je vois .
+Il vous permettra de voir ce que c&apos; est que d&apos; être un athlète professionnel sur le terrain .
+À l&apos; heure actuelle , le seul moyen pour vous d&apos; être sur le terrain est que j&apos; essaie de vous le décrire .
+Je dois utiliser des mots .
+Je dois créer un cadre que vous devrez remplir grâce à votre imagination .
+Grâce à Google Glass , nous pouvons mettre ces mots sous un casque , et vous pourrez savoir ce que l&apos; on ressent lorsque l&apos; on court à 100 km / h sur un terrain , vous sentirez le sang qui bat dans vos oreilles .
+Vous pouvez avoir une idée de ce que c&apos; est d&apos; avoir un homme de 115 kilos qui sprinte vers vous pour essayer de vous décapiter avec chaque once de son être .
+Et j&apos; ai été la cible de ça , et on ne se sent pas très bien .
+On va regarder quelques vidéos .
+Allez .
+Argh , être plaqué ça craint .
+Attendez , allons un peu plus près .
+Très bien , vous êtes prêts ?
+C&apos; est parti !
+Maintenant , vous avez peut-être remarqué que certaines personnes ont disparu : le reste de l&apos; équipe .
+Nous avons une vidéo de cela fourni par l&apos; Université de Washington .
+Quarterback : Hey , Mice 54 ! Mice 54 !
+Blue 8 ! Blue 8 ! Allez !
+Oh !
+Les fans veulent cette expérience .
+Les fans veulent être sur ce terrain .
+Ils veulent être leurs joueurs favoris , et ils m&apos; ont déjà parlé sur YouTube , ils m&apos; ont parlé sur Twitter , en disant , &quot; Hé , pouvez-vous mettre ça sur un quarterback ?
+Eh bien , une fois que nous aurons cette expérience avec GoPro et Google Glass , comment peut-on la rendre plus immersive ?
+Comment passer à l&apos; étape suivante ?
+L&apos; Oculus Rift a été décrit comme l&apos; un des appareils de réalité virtuelle les plus réalistes jamais créés et ce n&apos; est pas vide de sens .
+Je vais vous montrer pourquoi ce n&apos; est pas vide de sens avec cette vidéo .
+Oh ! Oh !
+Non ! Non ! Non ! Je ne veux plus jouer ! Non !
+Oh mon Dieu ! Aaaah !
+Donc c&apos; est l&apos; expérience d&apos; un homme sur une montagne russe ayant peur pour sa vie .
+Que ressentira - t - il à votre avis lorsqu&apos; il dévalera le flanc d&apos; une montagne à plus de 70 km / h comme un skieur olympique de descente ?
+Je pense que les ventes de couche pour adulte vont s&apos; envoler .
+Mais ce n&apos; est pas encore la réalité augmentée .
+C&apos; est seulement la réalité virtuelle , RV .
+Comment parvient-on à la réalité augmentée , A.R. ?
+On arrive à la réalité augmentée quand les entraîneurs et les gestionnaires et les propriétaires regardent cette information en streaming que les gens veulent voir , et ils disent : &quot; Comment pouvons-nous utiliser cela pour rendre nos équipes meilleures ?
+Comment peut-on utiliser ça pour gagner des matchs ? &quot;
+Parce que les équipes utilisent toujours la technologie pour remporter des parties .
+Ils aiment gagner . Cela leur rapporte de l&apos; argent .
+Donc un bref historique de la technologie dans la NFL .
+En 1965 , les Baltimore Colts ont mis un bracelet à leur quarterback pour lui permettre d&apos; appeler les jeux plus vite .
+Ils ont fini par remporter un Super Bowl cette année-là .
+D&apos; autres équipes leur ont emboîté le pas .
+Plus de gens regardaient le match parce que c&apos; était plus excitant .
+C&apos; était plus rapide .
+En 1994 , la NFL a mis des radios de casque dans les casques des quarterbacks , et plus tard la défense .
+Plus de gens regardaient les jeux parce que c&apos; était plus rapide .
+C&apos; était plus amusant .
+En 2023 , imaginez que vous êtes un joueur qui retourne dans la mêlée , et que votre prochaine action s&apos; affiche face à vos yeux sur la visière en plastique transparent que vous portez en ce moment .
+J&apos; ai grandi dans une très petite ville de campagne à Victoria .
+J&apos; ai eu une éducation très normale et discrète .
+Je suis allée à l&apos; école , j&apos; ai traîné avec mes amis , je me disputais avec mes petites sœurs .
+Tout était très normal .
+Et quand j&apos; avais 15 ans , un membre de ma communauté locale est venu voir mes parents et voulait me nominer pour une récompense de mérite de la communauté .
+Et mes parents ont dit : &quot; Hum , c&apos; est vraiment gentil , mais il y a un gros problème .
+Elle n&apos; a en fait pas accompli quoi que ce soit . &quot; Et ils avaient raison , vous savez .
+Je suis allée à l&apos; école , j&apos; ai eu de bonnes notes , j&apos; avais un job d&apos; étudiant très modeste dans le salon de coiffure de ma mère , et j&apos; ai passé beaucoup de temps à regarder &quot; Buffy contre les vampires &quot; et &quot; Dawson . &quot;
+Oui , je sais . C&apos; est une contradiction .
+Mais ils avaient raison , vous savez .
+Des années plus tard , j&apos; entamais ma deuxième série de cours en tant que professeur dans un lycée de Melbourne , et j&apos; avais commencé un cours d&apos; études juridiques de terminale depuis environ 20 minutes quand ce garçon a levé la main pour poser la question suivante : &quot; Hé , mademoiselle , quand allez-vous commencer à faire votre discours ? &quot;
+Et j&apos; ai dit , &quot; Quel discours ? &quot;
+Vous savez , j&apos; étais en train de leur parler de la loi sur diffamation depuis 20 bonnes minutes .
+Et il a dit , &quot; Vous savez , comme votre discours de motivation .
+Vous savez , quand les gens en fauteuils roulants viennent à l&apos; école , ils disent toujours , genre , des trucs inspirants ? &quot;
+&quot; C&apos; est souvent dans le grand hall . &quot;
+Et c&apos; est là que ça m&apos; a frappé : ce gamin n&apos; avait jamais connu les personnes handicapées que comme des sources d&apos; inspiration .
+Nous ne le sommes pas , pour cet enfant -- et ce n&apos; est pas sa faute , je veux dire , c&apos; est vrai pour beaucoup d&apos; entre nous .
+Pour beaucoup d&apos; entre nous , les personnes handicapées ne sont pas nos professeurs ou nos médecins ou nos manucures .
+Nous ne sommes pas de vrais gens . Nous sommes là pour inspirer .
+Et en fait , je suis assise sur cette scène , en étant comme je suis dans ce fauteuil roulant , et vous vous attendez en quelque sorte que je vous inspire . N&apos; est-ce pas ? Ouais .
+Eh bien , Mesdames et Messieurs , J&apos; ai bien peur de vous décevoir .
+Je ne suis pas ici pour vous inspirer .
+Je suis ici pour vous dire que l&apos; on vous a menti à propos du handicap .
+Ce n&apos; est pas une mauvaise chose , et ça ne vous rend pas exceptionnel .
+Et au cours de ces dernières années , nous avons réussi à propager ce mensonge encore plus loin via les médias sociaux .
+Vous avez peut-être vu des images comme celle-ci : &quot; Le seul handicap dans la vie , c&apos; est une mauvaise attitude . &quot;
+Ou celle-ci : &quot; Votre excuse est invalide . &quot; En effet .
+Ou celui-là : &quot; Avant d&apos; abandonner , essayez ! &quot;
+Ce ne sont là que quelques exemples , mais il existe beaucoup d&apos; images de ce genre .
+Vous savez , vous avez peut-être vu celle-là , la petite fille sans mains qui dessine une image avec un crayon tenu dans sa bouche .
+Vous as dû voir un enfant qui court sur des prothèses de jambes en fibre de carbone .
+Et ces images , il y en a beaucoup dans la nature , qui sont ce que nous appelons du porno inspirant .
+Et j&apos; utilise délibérément le terme pornographie , parce qu&apos; elles traitent un groupe de personnes comme des objets au profit d&apos; un autre groupe de personnes .
+Donc dans ce cas , nous traitons les personnes handicapées comme des objets au profit des personnes valides .
+Le but de ces images est de vous inspirer , pour vous motiver , afin que lorsque nous les regardons nous pensions : &quot; Eh bien , même si ma vie n&apos; est pas une réussite , ça pourrait être pire .
+Je pourrais être cette personne . &quot;
+Mais si vous étiez cette personne ?
+J&apos; ai perdu le compte du nombre de fois où j&apos; ai été approchée par des étrangers désireux de me dire qu&apos; ils pensent que je suis courageuse ou inspirante , et c&apos; était bien avant que mon travail ait un type de profil public .
+Ils me félicitaient simplement pour avoir réussi à me lever le matin et à me souvenir de mon propre nom . Et c&apos; est une façon de me traiter comme un objet .
+Ces images , ces images objectivent les personnes handicapées au profit des personnes non handicapées .
+Elles sont là pour que vous puissiez les examiner et penser que les choses ne sont pas si mauvaises pour vous , pour mettre vos soucis en perspective .
+Le 5 novembre 1990 , un homme nommé El-Sayyid Nosair est entré dans un hôtel à Manhattan et a assassiné le rabbin Meir Kahane , le chef de la Ligue de Défense des juifs .
+Nosair était initialement déclaré non coupable du meurtre , mais tout en purgeant sa peine à moindre frais , lui et d&apos; autres hommes ont commencé à planifier des attaques sur une douzaine de points de repère de la ville de New York , y compris tunnels , synagogues et le quartier général des Nations Unies .
+Heureusement , ces plans ont été déjoués par un informateur du FBI .
+Malheureusement , l&apos; attentat de 1993 contre le World Trade Center ne l&apos; a pas été .
+Je suis né à Pittsburgh , en Pennsylvanie en 1983 de lui , un ingénieur égyptien , et d&apos; une adorable mère américaine et institutrice à l&apos; école primaire qui , ensemble , ont fait de leur mieux pour créer une enfance heureuse pour moi .
+Ce n&apos; est que quand j&apos; ai eu sept ans que la dynamique de notre famille a commencé à changer .
+Mon père m&apos; a exposé à un côté de l&apos; islam que peu de personnes , y compris la majorité des musulmans , ont l&apos; occasion de voir .
+Cependant , dans chaque religion , dans chaque population , vous trouverez un petit pourcentage de personnes qui tiennent si ardemment à leurs convictions qu&apos; elles sentent qu&apos; elles doivent utiliser tous les moyens nécessaires pour que d&apos; autres vivent comme elles le font .
+Nous sommes arrivés au stand de tir de Calverton qui , à l&apos; insu de notre groupe , était surveillé par le FBI .
+Ce jour-là , la dernière balle que j&apos; ai tirée a frappé la petite lumière orange qui se trouvait au-dessus de la cible et à la surprise de tous , surtout la mienne , toute la cible a pris feu .
+Ils se sont tous mis à rire de ce commentaire , mais ce n&apos; est que quelques années plus tard que j&apos; ai vraiment compris pourquoi ils ont trouvé ça si drôle .
+Ils pensaient avoir vu en moi , la même destruction dont mon père était capable .
+Ces hommes ont fini par être reconnus coupables d&apos; avoir placé un camion rempli de 1 500 livres d&apos; explosifs dans le parking sous-terrain de la tour nord du WTC , qui a provoqué une explosion qui a tué six personnes et blessé plus de 1 000 autres .
+C&apos; était des hommes que je respectais .
+Ce sont les hommes que j&apos; appelais ammu , ce qui veut dire oncle .
+Quand j&apos; ai eu 19 ans , j&apos; avais déjà déménagé 20 fois dans ma vie , et cette instabilité durant mon enfance ne m&apos; a pas vraiment donné l&apos; occasion de me faire beaucoup d&apos; amis .
+Chaque fois que je commençais à me sentir à l&apos; aise avec quelqu&apos; un , il était temps de plier bagages et de déménager dans la prochaine ville .
+Étant perpétuellement le nouvel élève en classe , j&apos; étais souvent pris pour cible .
+Donc , pour la plupart , j&apos; ai passé mon temps à lire des livres à la maison et regarder la télé ou à jouer à des jeux vidéo .
+Pour toutes ces raisons , je n&apos; étais pas sociable , c&apos; est le moins qu&apos; on puisse dire , et parce que j&apos; ai grandi dans un foyer sectaire , je n&apos; étais pas préparé pour le monde réel .
+J&apos; avais été élevé pour juger les gens sur des mesures arbitraires , comme leur race ou leur religion .
+Alors , qu&apos; est-ce qui m&apos; a ouvert les yeux ?
+Une de mes premières expériences qui a remis en question cette façon de penser c&apos; était pendant les élections présidentielles de 2000 .
+Grâce à un programme de préparation à la fac , j&apos; ai été en mesure de participer au National Youth Convention de Philadelphie .
+Mon groupe particulier se concentrait sur la violence chez les jeunes et ayant été victime d&apos; intimidation pendant la plus grande partie de ma vie , c&apos; était un sujet par lequel je me sentais particulièrement passionné .
+En ce moment il y a un film qui se déroule dans votre tête .
+C&apos; est un super film multipistes .
+Il dispose de la vision en 3D et du son surround pour ce que vous voyez et entendez en ce moment , mais ce n&apos; est que le début .
+Votre film a l&apos; odorat et le goût et le toucher .
+Il sent votre corps , votre douleur , votre faim , vos orgasmes .
+Il a des émotions , de la colère et du bonheur .
+Il a des souvenirs , comme des scènes de votre enfance qui défilent devant vous .
+Et il a cette voix off constante qui récite dans votre flux de pensée consciente .
+Au cœur de ce film , c&apos; est vous qui expérimentez tout cela directement .
+Ce film est votre flux de conscience , le sujet d&apos; expérience de l&apos; esprit et du monde .
+La conscience est l&apos; un des faits fondamentaux de l&apos; existence humaine .
+Chacun de nous est conscient .
+Nous avons tous notre propre film intérieur , toi et toi et toi .
+Il n&apos; y a rien que nous sachions plus directement .
+Au moins , je sais à propos de ma conscience directement .
+Je ne suis pas sûr que vous soyez conscients .
+La conscience , c&apos; est aussi ce qui rend la vie digne d&apos; être vécue .
+Si nous n&apos; étions pas conscients , rien dans notre vie n&apos; aurait de sens ou de valeur .
+Mais en même temps , c&apos; est le phénomène le plus mystérieux dans l&apos; univers .
+Pourquoi ne sommes-nous pas juste des robots qui traitent toutes ces données , produisent tout ce rendement , sans ressentir le film intérieur ?
+Pour l&apos; instant , personne ne connaît les réponses à ces questions .
+Mais je suggère que pour intégrer la conscience à la science , certaines idées radicales pourraient être nécessaires .
+Certaines personnes disent qu&apos; une science de la conscience est impossible .
+La science , par sa nature , est objective .
+La conscience , de par sa nature , est subjective .
+Donc il ne pourra jamais y avoir de la science de la conscience .
+Pendant la plus grande partie du XXe siècle , ce point de vu a dominé .
+Les psychologues ont étudié le comportement objectivement , les neuroscientifiques ont étudié le cerveau objectivement , et personne n&apos; a jamais mentionné la conscience .
+Même il y a 30 ans , quand TED a commencé , il y avait très peu de travail scientifique sur la conscience .
+Maintenant , environ 20 ans après , tout ça a commencé à changer .
+Les neuroscientifiques comme Francis Crick et les physiciens comme Roger Penrose ont affirmé qu&apos; il était temps pour la science de s&apos; attaquer à la conscience .
+Et depuis , il y a eu une vraie explosion , une floraison de travaux scientifiques sur la conscience .
+Et ce travail a été merveilleux . Il a été super .
+Mais il a aussi certaines limites fondamentales .
+Nous avons pris connaissance de certains des travaux de Nancy Kanwisher et des travaux exceptionnels qu&apos; elle a présenté il y a quelques minutes .
+Maintenant nous comprenons beaucoup mieux , par exemple quelles zones du cerveau déclenche l&apos; expérience consciente qui nous permet de voir des visages , de ressentir de la douleur ou de se sentir heureux .
+Mais c&apos; est toujours une science des corrélations .
+Ce n&apos; est pas une science d&apos; explications .
+Nous savons que ces régions du cerveau s&apos; accompagnent de certains types d&apos; expérience consciente , mais nous ne savons pas pourquoi cela se passe .
+J&apos; aime mettre cela en disant que ce genre de travail de neurosciences est de répondre à certaines des questions auxquelles nous voulons des réponses à propos de la conscience , les questions sur ce que certaines zones du cerveau font et à quoi elles sont corrélées .
+Mais dans un certain sens , ce sont des problèmes faciles .
+Je ne critique pas les neuroscientifiques .
+Il n&apos; y a pas vraiment de problème faciles lorsque l&apos; on étudie la conscience .
+Mais ça n&apos; a pas abordé le vrai mystère au cœur de cette question : pourquoi est-ce que toute cette transformation physique dans un cerveau devrait être accompagnée de conscience du tout ?
+Pourquoi il y a ce film subjectif intérieur ?
+Pour l&apos; instant , nous n&apos; avons pas vraiment d&apos; idée sur ce sujet .
+Et vous pourriez dire , donnons quelques années supplémentaires à la neurosciences .
+Il pourrait s&apos; agir d&apos; un autre phénomène émergent comme les embouteillages , comme les ouragans , comme la vie , et nous allons le découvrir .
+Les cas classiques de l&apos; émergence sont tous des cas de comportement émergent , comment se comporte un embouteillage , comment fonctionne un ouragan , comment un organisme vivant se reproduit , s&apos; adapte et se métabolise , toutes questions au sujet de l&apos; objectif opérationnel .
+Vous pourriez appliquer cela au cerveau humain en expliquant certains des comportements et les fonctions du cerveau humain comme des phénomènes émergents : notre manière de marcher , notre manière de parler , notre manière de jouer aux échecs , toutes ces questions sur le comportement .
+Mais quand il s&apos; agit de la conscience , les questions sur le comportement font partie des problèmes faciles .
+Quant à la problématique difficile , la question est de savoir pourquoi est-ce que tout ce comportement est accompagné par l&apos; expérience subjective ?
+Et ici , le paradigme classique de l&apos; émergence , y compris les paradigmes standard des neurosciences , ne répondent pas à cette question du moins jusqu&apos; à présent .
+Alors , je suis un matérialiste scientifique dans l&apos; âme .
+Je veux une théorie scientifique de la conscience qui fonctionne et depuis longtemps , je me suis cogné la tête contre le mur à la recherche d&apos; une théorie de la conscience en termes purement physiques qui marcherait .
+Mais je suis finalement arrivé à la conclusion que ça n&apos; a pas marché pour des raisons systématiques .
+Donc je pense que nous sommes à une sorte d&apos; impasse .
+Nous avons cette merveilleuse , excellente chaîne d&apos; explication , nous y sommes habitués , où la physique explique la chimie , la chimie explique la biologie , la biologie explique certaines parties de la psychologie .
+Mais la conscience ne semble pas s&apos; inscrire dans ce tableau .
+D&apos; une part , c&apos; est une donnée dont nous sommes conscients .
+D&apos; un autre côté , nous ne savons pas comment l&apos; accueillir dans notre vision du monde scientifique .
+Donc je pense qu&apos; actuellement la conscience est une sorte d&apos; anomalie que nous devons intégrer dans notre vision du monde , mais nous ne savons pas encore comment y parvenir .
+Face à une anomalie comme celle-ci , des idées radicales pourraient être nécessaires et je pense que nous pourrions avoir besoin d&apos; une ou deux idées qui apparaissent initialement folles avant qu&apos; on puisse arriver à comprendre la conscience scientifiquement .
+Maintenant , il y a quelques candidats pour ce que ces idées folles pourraient être .
+Mon ami Dan Dennett , qui est ici aujourd&apos; hui , en a une .
+Son idée folle c&apos; est qu&apos; il n&apos; y a pas de problème épineux de la conscience .
+L&apos; idée du film subjectif intérieur implique une sorte d&apos; illusion ou de confusion .
+En fait , nous devons tout simplement expliquer les fonctions objectives , les comportements du cerveau , et alors nous aurons expliqué tout ce qui a besoin d&apos; être expliqué .
+Et bien je dis , c&apos; est à son honneur .
+C&apos; est le genre d&apos; idée radicale que nous devons explorer si vous voulez avoir une théorie basée sur le cerveau purement réductionniste de la conscience .
+Dans le même temps , pour moi et pour beaucoup d&apos; autres personnes , ce point de vue est un peu trop proche de nier purement et simplement la référence de la conscience pour être satisfaisant .
+Donc je vais dans une autre direction .
+Dans le temps qui reste , je veux explorer deux idées folles qui , je pense , pourraient être prometteuses .
+La première idée folle c&apos; est que la conscience est fondamentale .
+Les physiciens prennent parfois certains aspects de l&apos; univers comme éléments fondamentaux : l&apos; espace et le temps et la masse .
+Ils postulent des lois fondamentales qui les gouvernent , comme les lois de la gravité ou de la mécanique quantique .
+Ces propriétés fondamentales et ces lois ne sont pas expliquées en termes de quelque chose de plus basique .
+Au contraire , elles sont prises comme primitives et vous construisez le monde à partir de là .
+Alors , parfois , la liste des fondamentaux s&apos; élargit .
+Au 19e siècle , Maxwell avait compris qu&apos; on ne pouvait pas expliquer les phénomènes électromagnétiques en termes des principes fondamentaux existants - l&apos; espace , le temps , la masse , les lois de Newton - donc il a postulé les lois fondamentales de l&apos; électromagnétisme et a postulé la charge électrique comme un élément fondamental que ces lois gouvernent .
+Je pense que c&apos; est la situation dans laquelle nous nous trouvons avec la conscience .
+Si vous ne pouvez pas expliquer la conscience en termes de fondamentaux existants - espace , temps , masse , charge - alors logiquement , vous avez besoin d&apos; agrandir la liste .
+La chose à faire est de poser comme principe la conscience elle-même comme quelque chose de fondamentale , un élément fondamental de la nature .
+Cela ne veut pas dire que soudainement vous ne pouvez pas l&apos; exploiter sur le plan scientifique .
+Cela ouvre la voie pour que nous fassions de la science avec .
+Ce dont nous avons alors besoin est d&apos; étudier les lois fondamentales régissant la conscience , les lois qui relient la conscience à d&apos; autres principes fondamentaux : l&apos; espace , le temps , la masse , les processus physiques .
+Les physiciens disent parfois que nous voulons des lois fondamentales si simples qu&apos; on pourrait les écrire sur le devant d&apos; un t-shirt .
+C&apos; est ma nièce , Stella .
+Elle vient d&apos; avoir un et a commencé à marcher .
+Et elle est en train de marcher de façon cool comme le font les bébés d&apos; un an , en vacillant , comme si son corps bougeait trop vite pour ses jambes .
+C&apos; est absolument magnifique .
+Et une des choses qu&apos; elle préfère faire en ce moment c&apos; est de se regarder dans le miroir .
+Elle adore voir son reflet .
+Elle glousse et couine , et se donne ces gros baisers mouillés .
+Quand est-ce que ça devient soudainement mal d&apos; aimer ce à quoi on ressemble ?
+Parce qu&apos; apparemment , nous ne l&apos; aimons pas .
+Dix mille personnes chaque mois , Google , &quot; Suis-je moche ? &quot;
+C&apos; est Faye . Faye a 13 ans et elle vit à Denver .
+Et comme n&apos; importe quel ado , elle veut juste être aimée et s&apos; intégrer .
+Et elle est légèrement effrayée , et elle est un peu confuse parce que bien que sa mère lui dise tout le temps qu&apos; elle est belle , tous les jours à l&apos; école , quelqu&apos; un lui dit qu&apos; elle est moche .
+En raison de la différence entre ce que sa mère lui dit et ce que ses amis à l&apos; école , ou ses pairs à l&apos; école lui disent , elle ne sait pas qui croire .
+Certains d&apos; entre eux sont si mauvais qu&apos; ils ne valent pas la peine qu&apos; on y pense .
+C&apos; est une adolescente moyenne , d&apos; apparence saine qui reçoit ces commentaires à l&apos; une des périodes de sa vie où elle est le plus vulnérable sur le plan émotionnel .
+Eh bien , les adolescents d&apos; aujourd&apos; hui sont rarement seuls .
+Ils sont sous pression pour être en ligne et disponibles à tout moment , pour parler , envoyer des messages , aimer , faire des commentaires , partager , publier -- ça ne finit jamais .
+Jamais auparavant nous n&apos; avons été aussi connectés , si continuellement , si instantanément , si jeunes .
+Et comme une mère m&apos; a dit , c&apos; est comme s&apos; il y avait une fête dans leur chambre tous les soirs .
+Il n&apos; y a pas de vie privée .
+Et les pressions sociales qui vont de pair sont implacables .
+Cet environnement toujours présent forme nos enfants à se valoriser en fonction du nombre de &quot; j&apos; aime &quot; qu&apos; ils obtiennent et des types de commentaires qu&apos; ils reçoivent .
+Il n&apos; y a pas de séparation entre la vie en ligne et hors ligne .
+Il est très difficile de faire la différence entre ce qui est réel et ce qui ne l&apos; est pas .
+Et où cherchent-ils leur inspiration ?
+Eh bien , vous pouvez voir le genre d&apos; images qui apparaissent dans le fil de l&apos; actualité des filles aujourd&apos; hui .
+La taille zéro est la norme sur les podiums des défilés de mode .
+La retouche est maintenant devenue routinière .
+Et les tendances comme # mincespiration , # ecartcuisse # pontbikini et # proana .
+Pour ceux qui ne le savent pas , # proana signifie pro-anorexie .
+Ces tendances sont associées aux stéréotypes et à la chosification flagrante des femmes dans la culture populaire d&apos; aujourd&apos; hui .
+Il n&apos; est pas difficile de voir à quoi les filles se comparent .
+Mais les garçons ne sont pas à l&apos; abri de ça non plus .
+Aspirant à la mâchoire ciselée et aux abdos saillants des stars du sport à l&apos; allure de super-héros et des chanteurs playboy .
+Mais , quel est le problème avec tout ça ?
+Eh bien , nous voulons que nos enfants grandissent pour devenir des individus en bonne santé et bien équilibrés .
+Mais dans une culture obsédé par l&apos; image , nous conduisons nos enfants à consacrer beaucoup de temps et d&apos; effort à leur apparence au détriment de tous les autres aspects de leur identité .
+Donc , des choses comme leurs relations , le développement de leurs capacités physiques , leurs études etc. commencent à souffrir .
+Six filles sur 10 choisissent maintenant de ne pas faire quelque chose parce qu&apos; elles ne pensent pas qu&apos; elles ont l&apos; air assez bien .
+Ces activités ne sont pas négligeables .
+Ces activités sont fondamentales pour leur développement en tant qu&apos; êtres humains et en tant que contributeurs à la société et à la population active .
+Trente et un pour cent , près d&apos; un adolescent sur trois , évite les débats en classe . Ils sont incapables de s&apos; engager dans un débat en classe parce qu&apos; ils ne veulent pas attirer l&apos; attention sur ce à quoi ils ressemblent .
+Un sur cinq ne va pas en classe du tout les jours où ils ne se sentent pas bien à ce sujet .
+Et lorsqu&apos; il y a des examens , si vous pensez ne pas être assez bien physiquement , en particulier si vous pensez ne pas être assez mince , vous aurez en moyenne une note inférieure à celle de vos camarades qui ne sont pas concernés par ce problème .
+Et c&apos; est cohérent dans toute la Finlande , les États-Unis
+et en Chine , et ce quel que soit votre poids .
+Donc , pour être clair , nous parlons de l&apos; apparence que vous pensez avoir , pas de celle que vous avez vraiment .
+Une faible estime de on physique sape la réussite scolaire .
+Mais , c&apos; est aussi préjudiciable à la santé .
+Les adolescents ayant un manque de confiance dans leur corps font moins d&apos; activité physique , mangent moins de fruits et de légumes , ont des pratiques de contrôle du poids moins saines qui peuvent entraîner des troubles de l&apos; alimentation .
+Et on ne s&apos; en sort pas .
+Les femmes qui pensent être en surpoids - encore une fois , indépendamment du fait qu&apos; elles le soient ou pas - ont des taux plus élevés d&apos; absentéisme .
+Dix-sept pour cent des femmes n&apos; iraient pas à un entretien d&apos; embauche un jour où elles ne se sentiraient pas en confiance par rapport à ce à quoi elles ressemblent .
+Pensez à ce que ça fait à notre économie .
+Aujourd&apos; hui je vais vous parler des 30 dernières années de l&apos; histoire de l&apos; architecture .
+C&apos; est beaucoup pour 18 minutes .
+C&apos; est un sujet complexe , donc nous allons directement nous plonger tout de suite dans un endroit complexe : le New Jersey .
+Parce qu&apos; il y a 30 ans , je suis du New Jersey , et j&apos; avais six ans , et je vivais là-bas dans la maison de mes parents dans une ville appelée Livingston , et c&apos; était ma chambre d&apos; enfant .
+A l&apos; angle près de ma chambre , il y avait la salle de bain que je partageais avec ma sœur .
+Et entre ma chambre et la salle de bain était un balcon surplombant la salle familiale .
+Et c&apos; est là que tout le monde pouvait traîner et regarder la télé , de sorte que chaque fois que je marchais de ma chambre à la salle de bain , tout le monde pouvait me voir , et à chaque fois je prenais une douche et revenais dans une serviette , tout le monde me voyait .
+Et je ressemblais à ça .
+J&apos; étais maladroit , peu sûr de moi , et je détestais ça .
+Je détestais devoir marcher , je détestais ce balcon , je détestais cette pièce , et je détestais cette maison .
+Et c&apos; est l&apos; architecture .
+Ce sentiment , ces émotions que j&apos; ai ressenties , c&apos; est le pouvoir de l&apos; architecture , parce que l&apos; architecture n&apos; est pas à propos de maths et il ne s&apos; agit pas de zonage , c&apos; est à propos de ces rapports émotionnels , viscéraux que nous ressentons par rapport aux lieux que nous occupons .
+Ce n&apos; est pas étonnant de se sentir comme ça , parce que selon l&apos; EPA , les Américains passent 90 % de leur temps à l&apos; intérieur .
+C&apos; est 90 % de notre temps entouré de l&apos; architecture .
+C&apos; est énorme .
+Cela signifie que l&apos; architecture nous façonne d&apos; une manière dont nous ne nous rendons même pas compte .
+Cela nous rend un peu crédules et très , très prévisibles .
+Ça veut dire que quand je vous montre un bâtiment comme celui-là , je sais à quoi vous pensez : vous pensez &quot; pouvoir &quot; et &quot; stabilité &quot; et &quot; démocratie . &quot;
+Et je sais que vous pensez à ça que parce que c&apos; est basé sur un bâtiment qui a été construit il y a 2 500 ans par les Grecs .
+C&apos; est un piège .
+C&apos; est un déclencheur que les architectes utilisent pour vous amener à créer un lien émotionnel avec les formes de nos bâtiments .
+C&apos; est une connexion émotionnelle prévisible , et nous utilisons ce truc depuis très , très longtemps .
+Nous l&apos; avons utilisé , il y a &#91; 200 &#93; ans pour construire des banques .
+Nous l&apos; avons utilisé au 19ème siècle pour construire les musées d&apos; art.
+Et au 20 e siècle en Amérique , nous l&apos; avons utilisé pour construire des maisons .
+Et regardez ces petits soldats solides , stables face à l&apos; océan et isolant les éléments .
+C&apos; est vraiment , vraiment utile , car construire des choses est terrifiant .
+C&apos; est cher , ça prend du temps et c&apos; est très compliqué .
+Et les gens qui construisent des choses -- les promoteurs et les gouvernements -- ils ont naturellement peur de l&apos; innovation , et ils préfèrent simplement utiliser ces formes auxquelles ils savent que vous allez répondre .
+C&apos; est comme ça qu&apos; on se retrouve avec des bâtiments comme celui-ci .
+C&apos; est un bel édifice .
+Mais ça n&apos; a rien à voir avec ce qu&apos; une bibliothèque fait aujourd&apos; hui .
+La même année , en 2004 , à l&apos; autre bout du pays , une autre bibliothèque a été achevée , et ça ressemble à ça .
+C&apos; est à Seattle .
+Cette bibliothèque montre la façon dont nous consommons les médias à l&apos; ère du numérique .
+Elle représente un nouveau type d&apos; aménagement public pour la ville , un endroit pour se rassembler et lire et partager .
+Alors comment est-il possible que dans la même année , dans le même pays , deux bâtiments , tous deux appelés bibliothèques , ait une apparence si complètement différente ?
+Et la réponse est que l&apos; architecture fonctionne sur le principe d&apos; un pendule .
+D&apos; un côté , c&apos; est l&apos; innovation , et les architectes sont constamment en train de pousser , pousser pour de nouvelles technologies , de nouvelles typologies , de nouvelles solutions pour la façon dont nous vivons aujourd&apos; hui .
+Nous portons tous du noir , nous sommes très déprimés , vous pensez que nous sommes adorables , on est morts à l&apos; intérieur parce que nous n&apos; avons pas le choix .
+Nous devons aller de l&apos; autre côté et reprendre ces symboles que nous savons que vous aimez .
+Nous le faisons donc et vous êtes heureux , nous avons l&apos; impression d&apos; être des traîtres donc nous recommençons les expériences et nous poussons le pendule d&apos; un côté à l&apos; autre , d&apos; un côté à l&apos; autre et nous faisons ça depuis 300 ans et particulièrement depuis ces 30 dernières années .
+Ok , il y a 30 ans on est sortis des années 70 .
+Les architectes ont été occupés à expérimenter quelque chose appelé brutalisme .
+Il s&apos; agit de béton .
+Des petites fenêtres , à une échelle déshumanisante .
+C&apos; est vraiment dur .
+Alors que nous nous rapprochons des années 80 , nous commençons à réintégrer ces symboles .
+Nous poussons le pendule dans l&apos; autre direction .
+Nous prenons ces formes que , comme nous le savons , vous aimez et nous les mettons à jour .
+Nous ajoutons des néons et nous ajoutons du pastel et nous utilisons de nouveaux matériaux .
+Et vous aimez ça .
+Et vous en redemandez .
+Nous prenons des armoires Chippendale et nous en avons fait des gratte-ciels , et les gratte-ciels peuvent être des châteaux médiévaux faits de verre .
+Les formes deviennent énormes , audacieuses et colorées .
+Des nains deviennent des piliers .
+C&apos; était fou .
+Mais c&apos; est les années 80 , c&apos; est cool .
+C&apos; est ça le truc à propos du postmodernisme .
+C&apos; est le truc à propos de symboles .
+Ils sont faciles , ils sont bon marché , car au lieu de créer des endroits , nous créons des souvenirs d&apos; endroits .
+Parce que je sais , et je sais que vous le savez tous , ce n&apos; est pas la Toscane .
+C&apos; est l&apos; Ohio .
+À la fin des années 80 et au début des années 90 , on commence à expérimenter quelque chose appelée le déconstructivisme .
+Nous jetons les symboles historiques , nous comptons sur de nouvelles techniques de conception assistée par ordinateur , et nous avons de nouvelles compositions , formes s&apos; écrasant dans les formes .
+C&apos; est académique et grisant , c&apos; est super impopulaire , nous vous aliénons totalement .
+D&apos; ordinaire , le pendule se met alors à tourner dans l&apos; autre direction .
+Et ensuite , quelque chose d&apos; incroyable est arrivé .
+En 1997 , ce bâtiment a été ouvert .
+C&apos; est le Guggenheim Bilbao , par Frank Gehry .
+Et ce bâtiment change fondamentalement la relation du monde à l&apos; architecture .
+Paul Goldberger dit que Bilbao était un de ces rares moments où les critiques , les universitaires et le grand public ont été complètement unis autour d&apos; un bâtiment .
+Le New York Times a appelé ce bâtiment un miracle .
+Le tourisme à Bilbao augmenté de 2.500 pour cent après que ce bâtiment a été achevé .
+Il est notre tout premier incontournable .
+Maintenant , comment est-il possible que ces formes , elles sont sauvages et radicales , soient devenues si omniprésentes dans le monde entier ?
+Et c&apos; est arrivé parce que les médias les ont galvanisées avec succès et rapidement nous avons appris que ces formes symbolisaient la culture et le tourisme .
+Nous avons créé une réaction émotionnelle à ces formes .
+Tout comme chaque maire dans le monde .
+Chaque maire savait donc que s&apos; ils avaient ces formes , ils avaient la culture et le tourisme .
+Ce phénomène au tournant du nouveau millénaire est arrivé à quelques autres starchitectes .
+Parce que pensez à la manière dont vous consommez l&apos; architecture .
+Il y a mille ans , vous auriez dû marcher jusqu&apos; au village d&apos; à côté pour voir un bâtiment .
+Le transport s&apos; est accéléré : Vous pouvez prendre un bateau , vous pouvez prendre un avion , vous pouvez être un touriste .
+La technologie s&apos; est accélérée : Vous pouvez le voir dans un journal , à la télé , jusqu &apos; à ce que finalement nous soyons tous des photographes architecturaux et le bâtiment s&apos; est désincarné du site .
+L&apos; architecture est partout maintenant , et cela signifie que la vitesse de communication a finalement rattrapé la vitesse de l&apos; architecture .

@@ -1,0 +1,19 @@
+(CTB):
+File: ms.zh-en.src.zh
+Encoding: UTF-8
+-------------------------------
+Invoked on Fri Jun 21 11:34:06 CEST 2019 with arguments: -sighanCorporaDict /home/atoral/software/stanford-segmenter-2018-02-27/data -textFile ms.zh-en.src.zh -inputEncoding UTF-8 -sighanPostProcessing true -keepAllWhitespaces true -loadClassifier /home/atoral/software/stanford-segmenter-2018-02-27/data/ctb.gz -serDictionary /home/atoral/software/stanford-segmenter-2018-02-27/data/dict-chris6.ser.gz
+serDictionary=/home/atoral/software/stanford-segmenter-2018-02-27/data/dict-chris6.ser.gz
+loadClassifier=/home/atoral/software/stanford-segmenter-2018-02-27/data/ctb.gz
+sighanCorporaDict=/home/atoral/software/stanford-segmenter-2018-02-27/data
+inputEncoding=UTF-8
+textFile=ms.zh-en.src.zh
+sighanPostProcessing=true
+keepAllWhitespaces=true
+Loading classifier from /home/atoral/software/stanford-segmenter-2018-02-27/data/ctb.gz ... done [16.1 sec].
+Loading Chinese dictionaries from 1 file:
+  /home/atoral/software/stanford-segmenter-2018-02-27/data/dict-chris6.ser.gz
+Done. Unique words in ChineseDictionary is: 423200.
+Loading character dictionary file from /home/atoral/software/stanford-segmenter-2018-02-27/data/dict/character_list [done].
+Loading affix dictionary from /home/atoral/software/stanford-segmenter-2018-02-27/data/dict/in.ctb [done].
+CRFClassifier tagged 83385 words in 2001 documents at 8286.30 words per second.
