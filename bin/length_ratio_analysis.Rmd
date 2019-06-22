@@ -1,0 +1,292 @@
+---
+title: "Length Ratio Analysis"
+author: "Antonio Toral"
+date: "29 November 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Load Dataset
+
+```{r load_data}
+dir = "../results/length-ratios/"
+df_iwslt_ende <- read.csv( paste(dir,"length_ratios_iwslt_en-de.csv", sep=""), sep=",")
+df_iwslt_enfr <- read.csv(paste(dir,"length_ratios_iwslt_en-fr.csv", sep=""), sep=",")
+df_trx_ende <- read.csv(paste(dir,"length_ratios_trx_en-de.csv",sep=""), sep=",")
+df_trx_deen <- read.csv(paste(dir,"length_ratios_trx_de-en.csv",sep=""), sep=",")
+df_trx_esde <- read.csv(paste(dir,"length_ratios_trx_es-de.csv",sep=""), sep=",")
+df_trx_dees <- read.csv(paste(dir,"length_ratios_trx_de-es.csv",sep=""), sep=",")
+df_ms_zhen <- read.csv(paste(dir,"length_ratios_ms_zh-en.csv",sep=""), sep=",")
+df_ms_zhen_all <- read.csv(paste(dir,"length_ratios_ms_zhen_all.csv",sep=""), sep=",")
+```
+
+# IWSLT
+
+## IWSLT ENDE
+
+```{r iwslt_ende}
+attach(df_iwslt_ende)
+
+sum(nabsdiff_ht/nrow(df_iwslt_ende))
+sum(nabsdiff_nmt1/nrow(df_iwslt_ende))
+sum(nabsdiff_penmt1/nrow(df_iwslt_ende))
+sum(nabsdiff_nmt2/nrow(df_iwslt_ende))
+sum(nabsdiff_penmt2/nrow(df_iwslt_ende))
+sum(nabsdiff_nmt3/nrow(df_iwslt_ende))
+sum(nabsdiff_penmt3/nrow(df_iwslt_ende))
+sum(nabsdiff_nmt4/nrow(df_iwslt_ende))
+sum(nabsdiff_penmt4/nrow(df_iwslt_ende))
+sum(nabsdiff_smt1/nrow(df_iwslt_ende))
+sum(nabsdiff_pesmt1/nrow(df_iwslt_ende))
+sum(nabsdiff_smt2/nrow(df_iwslt_ende))
+sum(nabsdiff_pesmt2/nrow(df_iwslt_ende))
+sum(nabsdiff_smt3/nrow(df_iwslt_ende))
+sum(nabsdiff_pesmt3/nrow(df_iwslt_ende))
+sum(nabsdiff_smt4/nrow(df_iwslt_ende))
+sum(nabsdiff_pesmt4/nrow(df_iwslt_ende))
+
+# normalized absolute difference smaller for all PEs than for HT, and smaller for all MTs than for their corresponding PE.
+# MT < PE < HT
+```
+
+```{r iwslt_ende2}
+boxplot(nabsdiff_ht, nabsdiff_nmt1, nabsdiff_smt1, nabsdiff_smt2, nabsdiff_smt3)
+boxplot(nabsdiff_ht, nabsdiff_penmt1, nabsdiff_pesmt1, nabsdiff_pesmt2, nabsdiff_pesmt3)
+
+# not all p<0.05
+t.test(nabsdiff_ht, nabsdiff_penmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_penmt2, paired = TRUE, alternative = "g")$p.value # <0.01 X
+t.test(nabsdiff_ht, nabsdiff_penmt3, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_penmt4, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt3, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt4, paired = TRUE, alternative = "g")$p.value
+
+# all p<0.01
+t.test(nabsdiff_ht, nabsdiff_nmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_nmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_nmt3, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_nmt4, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt3, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt4, paired = TRUE, alternative = "g")$p.value
+
+detach(df_iwslt_ende)
+```
+
+## IWSLT ENFR
+
+```{r iwslt_enfr}
+attach(df_iwslt_enfr)
+
+sum(nabsdiff_ht/nrow(df_iwslt_enfr))
+sum(nabsdiff_nmt1/nrow(df_iwslt_enfr))
+sum(nabsdiff_penmt1/nrow(df_iwslt_enfr))
+sum(nabsdiff_nmt2/nrow(df_iwslt_enfr))
+sum(nabsdiff_penmt2/nrow(df_iwslt_enfr))
+sum(nabsdiff_smt1/nrow(df_iwslt_enfr))
+sum(nabsdiff_pesmt1/nrow(df_iwslt_enfr))
+sum(nabsdiff_smt2/nrow(df_iwslt_enfr))
+sum(nabsdiff_pesmt2/nrow(df_iwslt_enfr))
+sum(nabsdiff_smt3/nrow(df_iwslt_enfr))
+sum(nabsdiff_pesmt3/nrow(df_iwslt_enfr))
+
+# PE > HT > MT
+# normalized absolute difference bigger for all PEs than for HT (opposite than for IWSLT's ENDE)
+# Unexpected result. The paper discusses possible interpretations.
+```
+
+```{r iwslt_enfr2}
+t.test(nabsdiff_ht, nabsdiff_penmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_penmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt3, paired = TRUE, alternative = "g")$p.value
+
+t.test(nabsdiff_ht, nabsdiff_nmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_nmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt3, paired = TRUE, alternative = "g")$p.value
+detach(df_iwslt_enfr)
+```
+
+
+## TARAXU
+## TARAXU ENDE 
+
+```{r trx_ende}
+attach(df_trx_ende)
+
+sum(nabsdiff_ht/nrow(df_trx_ende))
+sum(nabsdiff_smt1/nrow(df_trx_ende))
+sum(nabsdiff_pesmt1/nrow(df_trx_ende))
+sum(nabsdiff_smt2/nrow(df_trx_ende))
+sum(nabsdiff_pesmt2/nrow(df_trx_ende))
+sum(nabsdiff_rbmt1/nrow(df_trx_ende))
+sum(nabsdiff_perbmt1/nrow(df_trx_ende))
+sum(nabsdiff_rbmt2/nrow(df_trx_ende))
+sum(nabsdiff_perbmt2/nrow(df_trx_ende))
+
+# normalized absolute difference smaller for all PEs than for HT
+# MT < PE < HT
+
+```
+
+```{r trx_ende2}
+# all p-values < 0.001
+t.test(nabsdiff_ht, nabsdiff_pesmt1, paired = TRUE, alternative = "g")$p.value 
+t.test(nabsdiff_ht, nabsdiff_pesmt2, paired = TRUE, alternative = "g")$p.value 
+t.test(nabsdiff_ht, nabsdiff_perbmt1, paired = TRUE, alternative = "g")$p.value 
+t.test(nabsdiff_ht, nabsdiff_perbmt2, paired = TRUE, alternative = "g")$p.value 
+t.test(nabsdiff_ht, nabsdiff_smt1, paired = TRUE, alternative = "g")$p.value 
+t.test(nabsdiff_ht, nabsdiff_smt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_rbmt1, paired = TRUE, alternative = "g")$p.value 
+t.test(nabsdiff_ht, nabsdiff_rbmt2, paired = TRUE, alternative = "g")$p.value
+
+detach(df_trx_ende)
+```
+
+## TARAXU DEEN
+
+```{r trx_deen}
+attach(df_trx_deen)
+
+sum(nabsdiff_ht/nrow(df_trx_deen))
+sum(nabsdiff_smt1/nrow(df_trx_deen))
+sum(nabsdiff_pesmt1/nrow(df_trx_deen))
+sum(nabsdiff_smt2/nrow(df_trx_deen))
+sum(nabsdiff_pesmt2/nrow(df_trx_deen))
+sum(nabsdiff_rbmt1/nrow(df_trx_deen))
+sum(nabsdiff_perbmt1/nrow(df_trx_deen))
+sum(nabsdiff_rbmt2/nrow(df_trx_deen))
+sum(nabsdiff_perbmt2/nrow(df_trx_deen))
+
+# normalized absolute difference smaller for all PEs than for HT
+# PE < HT
+# MT > PE for SMT
+# MT < PE for RBMT
+```
+
+```{r trx_deen2}
+
+# All p<0.01
+t.test(nabsdiff_ht, nabsdiff_pesmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt2, paired = TRUE, alternative = "g")$p.value 
+t.test(nabsdiff_ht, nabsdiff_perbmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_perbmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_rbmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_rbmt2, paired = TRUE, alternative = "g")$p.value
+
+detach(df_trx_deen)
+```
+
+
+
+## TARAXU ESDE
+
+```{r trx_esde}
+attach(df_trx_esde)
+
+sum(nabsdiff_ht/nrow(df_trx_esde))
+sum(nabsdiff_smt1/nrow(df_trx_esde))
+sum(nabsdiff_pesmt1/nrow(df_trx_esde))
+sum(nabsdiff_smt2/nrow(df_trx_esde))
+sum(nabsdiff_pesmt2/nrow(df_trx_esde))
+sum(nabsdiff_rbmt1/nrow(df_trx_esde))
+sum(nabsdiff_perbmt1/nrow(df_trx_esde))
+sum(nabsdiff_rbmt2/nrow(df_trx_esde))
+sum(nabsdiff_perbmt2/nrow(df_trx_esde))
+
+# PE < HT
+# MT < PE for SMT
+# MT > PE for RBMT
+```
+
+```{r trx_esde2}
+
+# All except 1 p<0.05
+t.test(nabsdiff_ht, nabsdiff_pesmt1, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt2, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_perbmt1, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_perbmt2, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt1, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt2, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_rbmt1, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_rbmt2, paired = TRUE, alternative="g")$p.value # 0.48!
+
+detach(df_trx_esde)
+```
+
+
+## TARAXU DEES
+
+This dataset is not included in the paper due to its small size (40 sentences)
+
+```{r trx_dees}
+attach(df_trx_dees)
+
+sum(nabsdiff_ht/nrow(df_trx_dees))
+sum(nabsdiff_smt1/nrow(df_trx_dees))
+sum(nabsdiff_pesmt1/nrow(df_trx_dees))
+sum(nabsdiff_smt2/nrow(df_trx_dees))
+sum(nabsdiff_pesmt2/nrow(df_trx_dees))
+sum(nabsdiff_rbmt1/nrow(df_trx_dees))
+sum(nabsdiff_perbmt1/nrow(df_trx_dees))
+sum(nabsdiff_rbmt2/nrow(df_trx_dees))
+sum(nabsdiff_perbmt2/nrow(df_trx_dees))
+
+# normalized absolute difference smaller for all PEs than for HT
+# PE < MT < HT
+```
+
+```{r trx_dees2}
+
+# All except 1 p<0.05
+t.test(nabsdiff_ht, nabsdiff_pesmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_pesmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_perbmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_perbmt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_smt2, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_rbmt1, paired = TRUE, alternative = "g")$p.value
+t.test(nabsdiff_ht, nabsdiff_rbmt2, paired = TRUE, alternative = "g")$p.value
+
+detach(df_trx_dees)
+```
+
+
+
+# MS
+## MS ZHEN
+
+```{r ms_zhen}
+attach(df_ms_zhen)
+
+sum(nabsdiff_ht/nrow(df_ms_zhen))
+sum(nabsdiff_nmt1/nrow(df_ms_zhen))
+sum(nabsdiff_nmt2/nrow(df_ms_zhen))
+sum(nabsdiff_pemt/nrow(df_ms_zhen))
+
+# PE < HT
+# MT1 (MS "human parity") > PE (Google)
+# MT2 (MS production) < PE (Google)
+```
+
+```{r ms_zhen2}
+boxplot(nabsdiff_ht, nabsdiff_pemt, nabsdiff_nmt1, nabsdiff_nmt2)
+
+# All p<0.001
+t.test(nabsdiff_ht, nabsdiff_pemt, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_nmt1, paired = TRUE, alternative="g")$p.value
+t.test(nabsdiff_ht, nabsdiff_nmt2, paired = TRUE, alternative="g")$p.value
+
+detach(df_ms_zhen)
+```
